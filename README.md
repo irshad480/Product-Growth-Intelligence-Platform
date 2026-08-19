@@ -377,7 +377,7 @@ Business Recommendations
 
 # 📁 Project Structure & Usage
 
-```text
+
 Product-Growth-Intelligence-Platform/
 │
 ├── README.md
@@ -429,7 +429,7 @@ Product-Growth-Intelligence-Platform/
     ├── relationships.sql
     ├── schema.sql
     └── views.sql
-```
+
 
 ### How to Use
 
