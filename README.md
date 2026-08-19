@@ -230,7 +230,7 @@ PGIP uses a structured multi-fact analytical model combining transactional, cust
 ## 🔄 Data Preparation & Analytics Workflow
 
 The project follows an end-to-end workflow from source data to business decision support:
-
+```text
 Source Data
     ↓
 Data Inspection & Cleaning
@@ -248,13 +248,14 @@ Interactive Dashboards
 Insights & Executive Intelligence
     ↓
 Business Recommendations
+```
 
 ## 🧮 DAX & KPI Framework
 
 DAX powers the project's reusable business calculations, KPI logic, rankings, time intelligence, and executive intelligence.
 
 ### Measure Organization
-
+```text
 📊 Measures
 ├── AI
 ├── Customer
@@ -265,7 +266,7 @@ DAX powers the project's reusable business calculations, KPI logic, rankings, ti
 ├── Products
 ├── Rankings
 └── Time Intelligence
-
+```
 
 ### KPI Framework
 
