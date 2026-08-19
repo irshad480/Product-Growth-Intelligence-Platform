@@ -1,0 +1,1001 @@
+Product_ID,Category,Subcategory,Brand,Product_Name,Supplier,Country_of_Origin,Price,Cost,Profit_Margin,Rating,Inventory,Status
+P000001,Fashion,Jackets,Nike,Nike Fashion Product,Prime Distribution,India,59.07,28.4,51.92,4.6,299,Active
+P000002,Toys,Educational,LEGO,LEGO Toys Product,Global Supplies Ltd,India,42.57,26.84,36.95,4.3,386,Discontinued
+P000003,Beauty,Haircare,Nivea,Nivea Beauty Product,ABC Wholesale,USA,70.2,47.57,32.24,3.7,236,Active
+P000004,Sports,Football,Adidas,Ultraboost 5,Global Supplies Ltd,China,208.57,116.32,44.23,4.0,155,Active
+P000005,Accessories,Watch,Titan,Titan Accessories Product,Elite Imports,China,142.49,99.58,30.11,4.4,461,Active
+P000006,Beauty,Skincare,L'Oréal,L'Oréal Beauty Product,NextGen Supply,India,62.98,46.96,25.44,4.8,463,Active
+P000007,Toys,Building Blocks,Mattel,Mattel Toys Product,NextGen Supply,USA,61.08,34.27,43.89,3.8,156,Active
+P000008,Home,Lighting,Prestige,Prestige Home Product,Prime Distribution,India,377.87,200.64,46.9,4.9,372,Active
+P000009,Books,Self Help,Penguin,Penguin Books Product,Global Supplies Ltd,USA,24.4,12.94,46.97,3.8,310,Active
+P000010,Beauty,Makeup,Nivea,Nivea Beauty Product,NextGen Supply,Japan,15.72,7.73,50.83,4.6,295,Active
+P000011,Toys,Building Blocks,Hasbro,Hasbro Toys Product,ABC Wholesale,India,149.63,73.54,50.85,4.2,406,Active
+P000012,Fashion,Clothing,Adidas,Adidas Fashion Product,NextGen Supply,Japan,186.99,105.73,43.46,4.4,259,Active
+P000013,Electronics,Smartphone,Lenovo,Legion Pro 5,NextGen Supply,Germany,1914.56,1303.01,31.94,4.0,170,Discontinued
+P000014,Home,Furniture,Philips,Philips Home Product,NextGen Supply,South Korea,221.76,133.09,39.98,3.8,487,Active
+P000015,Sports,Football,Adidas,Ultraboost 5,Prime Distribution,Germany,478.14,347.48,27.33,4.9,326,Active
+P000016,Accessories,Watch,Fossil,Fossil Accessories Product,ABC Wholesale,USA,203.63,106.26,47.82,3.9,310,Active
+P000017,Fashion,Shoes,Levi's,Levi's Fashion Product,Universal Traders,USA,55.21,35.77,35.21,4.9,104,Active
+P000018,Toys,Outdoor,LEGO,LEGO Toys Product,NextGen Supply,South Korea,38.16,20.74,45.65,5.0,352,Active
+P000019,Accessories,Bag,Titan,Titan Accessories Product,Global Supplies Ltd,India,63.93,35.25,44.86,4.4,137,Active
+P000020,Electronics,Laptop,Apple,iPhone 15 Pro,Global Supplies Ltd,China,2170.14,1022.69,52.87,3.9,362,Discontinued
+P000021,Beauty,Haircare,Maybelline,Maybelline Beauty Product,Universal Traders,Germany,40.45,27.72,31.47,4.7,117,Active
+P000022,Fashion,Jackets,Levi's,Levi's Fashion Product,Elite Imports,Japan,150.77,100.82,33.13,4.5,350,Active
+P000023,Electronics,Tablet,Dell,UltraSharp Monitor,Global Supplies Ltd,India,600.24,366.68,38.91,3.7,113,Active
+P000024,Accessories,Watch,Fossil,Fossil Accessories Product,Elite Imports,USA,216.72,133.3,38.49,3.6,296,Active
+P000025,Fashion,Clothing,Adidas,Adidas Fashion Product,Elite Imports,Japan,154.78,109.8,29.06,4.9,104,Discontinued
+P000026,Electronics,Headphones,Dell,Inspiron 16,ABC Wholesale,Japan,1786.99,1195.77,33.08,4.7,358,Discontinued
+P000027,Home,Kitchen,IKEA,IKEA Home Product,Prime Distribution,China,469.66,287.74,38.73,4.6,49,Active
+P000028,Accessories,Wallet,Titan,Titan Accessories Product,Prime Distribution,China,240.59,114.05,52.6,3.8,324,Active
+P000029,Beauty,Skincare,Nivea,Nivea Beauty Product,Universal Traders,India,48.42,22.37,53.8,3.6,356,Active
+P000030,Sports,Gym Equipment,Adidas,Adizero Boston,ABC Wholesale,India,154.84,75.76,51.07,4.5,254,Active
+P000031,Fashion,Jeans,Nike,Nike Fashion Product,Universal Traders,Germany,298.91,141.08,52.8,3.8,155,Active
+P000032,Books,Self Help,Penguin,Penguin Books Product,ABC Wholesale,Vietnam,16.2,11.34,30.0,4.6,333,Active
+P000033,Sports,Football,Nike,Air Zoom Pegasus 41,Global Supplies Ltd,China,378.94,188.19,50.34,3.9,127,Active
+P000034,Beauty,Haircare,Lakme,Lakme Beauty Product,Elite Imports,Vietnam,72.9,51.31,29.62,3.6,236,Active
+P000035,Electronics,Laptop,Apple,iPad Air,NextGen Supply,Vietnam,529.72,308.59,41.74,4.6,307,Active
+P000036,Fashion,Clothing,Nike,Nike Fashion Product,Universal Traders,China,253.69,158.49,37.53,3.7,85,Active
+P000037,Sports,Football,Puma,Future Ultimate,Prime Distribution,South Korea,147.28,70.82,51.91,4.7,472,Discontinued
+P000038,Home,Furniture,IKEA,IKEA Home Product,Prime Distribution,Japan,34.46,23.12,32.91,4.0,496,Discontinued
+P000039,Beauty,Skincare,Lakme,Lakme Beauty Product,NextGen Supply,China,33.69,15.55,53.84,4.2,122,Discontinued
+P000040,Books,Self Help,HarperCollins,HarperCollins Books Product,Prime Distribution,China,42.32,24.1,43.05,3.9,55,Active
+P000041,Books,Business,Oxford,Oxford Books Product,Elite Imports,South Korea,59.02,36.05,38.92,4.9,79,Active
+P000042,Home,Kitchen,Prestige,Prestige Home Product,Global Supplies Ltd,China,483.31,267.61,44.63,4.7,243,Active
+P000043,Toys,Educational,Hasbro,Hasbro Toys Product,ABC Wholesale,China,109.23,49.21,54.95,4.9,295,Active
+P000044,Books,Self Help,HarperCollins,HarperCollins Books Product,NextGen Supply,Vietnam,40.4,26.22,35.1,3.7,480,Active
+P000045,Sports,Football,Under Armour,Curry Flow,NextGen Supply,Vietnam,290.57,147.48,49.24,4.5,214,Active
+P000046,Sports,Football,Under Armour,HOVR Phantom,ABC Wholesale,India,232.05,144.8,37.6,4.5,258,Discontinued
+P000047,Accessories,Watch,Titan,Titan Accessories Product,Universal Traders,Japan,200.5,147.96,26.2,4.6,357,Active
+P000048,Sports,Running Shoes,Puma,Future Ultimate,NextGen Supply,Vietnam,135.58,69.11,49.03,3.5,145,Discontinued
+P000049,Fashion,Jeans,Levi's,Levi's Fashion Product,NextGen Supply,Germany,74.44,49.05,34.11,4.2,144,Active
+P000050,Electronics,Laptop,Apple,AirPods Pro,Prime Distribution,USA,2401.22,1453.67,39.46,3.6,147,Active
+P000051,Accessories,Bag,Fossil,Fossil Accessories Product,NextGen Supply,Germany,247.09,155.33,37.14,4.9,476,Discontinued
+P000052,Toys,Building Blocks,Hasbro,Hasbro Toys Product,Prime Distribution,South Korea,130.61,76.41,41.5,4.6,450,Active
+P000053,Accessories,Watch,Titan,Titan Accessories Product,ABC Wholesale,Japan,28.6,15.32,46.43,3.9,183,Active
+P000054,Home,Furniture,IKEA,IKEA Home Product,Elite Imports,South Korea,134.95,69.39,48.58,4.1,189,Discontinued
+P000055,Toys,Educational,LEGO,LEGO Toys Product,Elite Imports,Japan,136.68,85.46,37.47,4.5,458,Discontinued
+P000056,Accessories,Bag,Fossil,Fossil Accessories Product,ABC Wholesale,USA,103.6,74.33,28.25,4.8,295,Active
+P000057,Accessories,Bag,Fossil,Fossil Accessories Product,Elite Imports,Japan,16.97,9.35,44.9,4.5,227,Active
+P000058,Accessories,Wallet,Fossil,Fossil Accessories Product,Universal Traders,China,227.66,142.87,37.24,4.5,62,Discontinued
+P000059,Home,Furniture,Philips,Philips Home Product,Global Supplies Ltd,Vietnam,312.6,160.52,48.65,4.0,409,Discontinued
+P000060,Sports,Running Shoes,Under Armour,Curry Flow,Elite Imports,China,382.04,177.89,53.44,4.9,134,Active
+P000061,Electronics,Laptop,Apple,MacBook Air M3,Global Supplies Ltd,Germany,508.1,247.88,51.21,4.5,308,Active
+P000062,Accessories,Bag,Titan,Titan Accessories Product,ABC Wholesale,India,155.41,114.87,26.09,4.6,418,Active
+P000063,Sports,Running Shoes,Nike,Mercurial Vapor,ABC Wholesale,Germany,348.35,256.89,26.26,4.1,386,Active
+P000064,Fashion,Clothing,Zara,Zara Fashion Product,Global Supplies Ltd,South Korea,236.29,166.61,29.49,4.4,81,Active
+P000065,Books,Technology,Oxford,Oxford Books Product,NextGen Supply,Vietnam,11.59,7.47,35.55,3.5,235,Discontinued
+P000066,Fashion,Jackets,Levi's,Levi's Fashion Product,NextGen Supply,USA,148.73,73.75,50.41,3.8,287,Active
+P000067,Accessories,Bag,Casio,Casio Accessories Product,NextGen Supply,Germany,74.41,52.5,29.44,4.7,64,Active
+P000068,Accessories,Bag,Fossil,Fossil Accessories Product,Universal Traders,Germany,170.37,93.86,44.91,4.2,186,Active
+P000069,Accessories,Bag,Fossil,Fossil Accessories Product,ABC Wholesale,Vietnam,77.12,48.5,37.11,4.8,304,Active
+P000070,Beauty,Skincare,L'Oréal,L'Oréal Beauty Product,NextGen Supply,Japan,41.64,28.21,32.25,4.5,350,Discontinued
+P000071,Accessories,Watch,Fossil,Fossil Accessories Product,ABC Wholesale,India,107.06,55.99,47.7,4.5,208,Discontinued
+P000072,Books,Business,HarperCollins,HarperCollins Books Product,Universal Traders,Vietnam,26.29,15.41,41.38,4.0,138,Active
+P000073,Beauty,Skincare,Lakme,Lakme Beauty Product,NextGen Supply,Germany,76.32,50.15,34.29,3.8,398,Discontinued
+P000074,Sports,Running Shoes,Puma,Future Ultimate,ABC Wholesale,India,199.61,107.93,45.93,4.6,84,Active
+P000075,Electronics,Laptop,Apple,iPad Air,NextGen Supply,USA,1919.06,922.64,51.92,3.5,165,Discontinued
+P000076,Accessories,Bag,Casio,Casio Accessories Product,Prime Distribution,China,70.59,50.01,29.15,3.7,53,Discontinued
+P000077,Accessories,Wallet,Fossil,Fossil Accessories Product,NextGen Supply,South Korea,22.87,11.32,50.5,4.3,175,Active
+P000078,Beauty,Haircare,L'Oréal,L'Oréal Beauty Product,Elite Imports,Germany,49.71,31.59,36.45,4.7,214,Discontinued
+P000079,Accessories,Wallet,Casio,Casio Accessories Product,Elite Imports,Vietnam,146.47,68.56,53.19,4.9,70,Active
+P000080,Beauty,Haircare,Lakme,Lakme Beauty Product,Global Supplies Ltd,India,22.99,14.15,38.45,3.7,229,Discontinued
+P000081,Accessories,Watch,Casio,Casio Accessories Product,Prime Distribution,Vietnam,179.67,118.74,33.91,4.2,371,Active
+P000082,Sports,Running Shoes,Adidas,Predator Elite,Universal Traders,India,334.39,241.6,27.75,4.7,56,Active
+P000083,Home,Lighting,Philips,Philips Home Product,NextGen Supply,USA,461.83,247.81,46.34,3.7,372,Active
+P000084,Toys,Outdoor,Mattel,Mattel Toys Product,Universal Traders,Japan,71.29,44.87,37.06,4.8,396,Active
+P000085,Sports,Running Shoes,Nike,Air Zoom Pegasus 41,NextGen Supply,USA,434.44,272.02,37.39,3.5,411,Active
+P000086,Electronics,Television,Samsung,Galaxy Tab S10,NextGen Supply,Japan,2302.77,1161.62,49.56,4.4,345,Discontinued
+P000087,Fashion,Jackets,Levi's,Levi's Fashion Product,Elite Imports,Vietnam,109.9,52.9,51.87,3.7,230,Discontinued
+P000088,Sports,Football,Under Armour,HOVR Phantom,Global Supplies Ltd,Vietnam,148.63,72.05,51.52,4.7,462,Active
+P000089,Accessories,Watch,Casio,Casio Accessories Product,Prime Distribution,Germany,96.83,65.55,32.3,4.4,409,Active
+P000090,Beauty,Haircare,Lakme,Lakme Beauty Product,Prime Distribution,Vietnam,37.86,24.97,34.05,3.7,342,Active
+P000091,Home,Lighting,Philips,Philips Home Product,Global Supplies Ltd,Germany,335.27,173.47,48.26,4.8,78,Discontinued
+P000092,Fashion,Jeans,Adidas,Adidas Fashion Product,NextGen Supply,Vietnam,162.48,86.44,46.8,4.8,261,Active
+P000093,Accessories,Watch,Titan,Titan Accessories Product,Elite Imports,India,231.25,139.32,39.75,4.8,462,Active
+P000094,Sports,Gym Equipment,Under Armour,Curry Flow,ABC Wholesale,USA,31.21,20.84,33.23,4.8,316,Discontinued
+P000095,Home,Lighting,Philips,Philips Home Product,Elite Imports,Vietnam,275.97,187.35,32.11,4.1,497,Active
+P000096,Beauty,Haircare,Maybelline,Maybelline Beauty Product,Elite Imports,India,69.2,39.67,42.67,4.0,262,Discontinued
+P000097,Toys,Outdoor,Hasbro,Hasbro Toys Product,Prime Distribution,Japan,145.08,70.78,51.21,4.9,189,Active
+P000098,Accessories,Wallet,Fossil,Fossil Accessories Product,Elite Imports,China,183.39,105.08,42.7,4.5,99,Active
+P000099,Accessories,Bag,Casio,Casio Accessories Product,Universal Traders,South Korea,105.4,49.97,52.59,4.0,365,Discontinued
+P000100,Books,Business,Oxford,Oxford Books Product,Elite Imports,USA,36.13,22.95,36.48,3.9,370,Active
+P000101,Beauty,Makeup,L'Oréal,L'Oréal Beauty Product,Global Supplies Ltd,USA,52.53,37.39,28.82,4.2,375,Active
+P000102,Electronics,Smartphone,Apple,iPad Air,ABC Wholesale,Vietnam,1030.88,508.92,50.63,4.3,309,Active
+P000103,Home,Furniture,IKEA,IKEA Home Product,Universal Traders,USA,315.3,206.5,34.51,4.2,318,Active
+P000104,Beauty,Haircare,Nivea,Nivea Beauty Product,ABC Wholesale,Japan,24.15,10.94,54.7,4.7,481,Active
+P000105,Home,Kitchen,IKEA,IKEA Home Product,ABC Wholesale,Germany,249.84,184.53,26.14,4.5,253,Active
+P000106,Beauty,Makeup,Nivea,Nivea Beauty Product,Global Supplies Ltd,India,33.6,18.74,44.23,3.9,378,Active
+P000107,Electronics,Tablet,Lenovo,Yoga 9i,Global Supplies Ltd,Germany,2182.91,1492.0,31.65,5.0,486,Discontinued
+P000108,Sports,Football,Adidas,Adizero Boston,Prime Distribution,South Korea,119.36,62.69,47.48,4.6,412,Active
+P000109,Fashion,Jackets,Nike,Nike Fashion Product,Elite Imports,China,182.28,122.07,33.03,3.6,171,Active
+P000110,Toys,Educational,LEGO,LEGO Toys Product,Prime Distribution,USA,85.52,63.41,25.85,4.3,487,Active
+P000111,Home,Kitchen,Philips,Philips Home Product,ABC Wholesale,South Korea,698.26,482.69,30.87,4.2,58,Active
+P000112,Beauty,Haircare,Nivea,Nivea Beauty Product,ABC Wholesale,China,64.3,29.2,54.59,4.3,252,Active
+P000113,Sports,Running Shoes,Under Armour,Curry Flow,NextGen Supply,India,251.59,159.98,36.41,4.9,187,Active
+P000114,Fashion,Jackets,Levi's,Levi's Fashion Product,NextGen Supply,Japan,52.67,24.42,53.64,3.6,272,Active
+P000115,Fashion,Clothing,Adidas,Adidas Fashion Product,Elite Imports,Japan,123.88,91.03,26.52,4.5,296,Discontinued
+P000116,Home,Lighting,Philips,Philips Home Product,Global Supplies Ltd,USA,399.14,228.48,42.76,4.9,36,Active
+P000117,Beauty,Makeup,Nivea,Nivea Beauty Product,Prime Distribution,USA,32.2,23.97,25.56,4.1,481,Active
+P000118,Electronics,Laptop,Dell,Inspiron 16,Global Supplies Ltd,USA,2086.85,996.48,52.25,3.8,347,Active
+P000119,Electronics,Laptop,Sony,WH-1000XM5,Universal Traders,India,311.23,211.5,32.04,3.8,130,Active
+P000120,Books,Business,Penguin,Penguin Books Product,Global Supplies Ltd,Vietnam,52.64,25.97,50.66,3.7,148,Active
+P000121,Fashion,Clothing,Nike,Nike Fashion Product,Global Supplies Ltd,Vietnam,241.2,125.76,47.86,4.0,109,Active
+P000122,Electronics,Headphones,Samsung,Galaxy Buds 3,Universal Traders,China,1902.31,1127.83,40.71,4.7,282,Active
+P000123,Accessories,Watch,Titan,Titan Accessories Product,Universal Traders,China,184.54,133.35,27.74,4.5,174,Discontinued
+P000124,Electronics,Headphones,Apple,AirPods Pro,Elite Imports,South Korea,403.71,267.95,33.63,4.2,480,Active
+P000125,Books,Self Help,Oxford,Oxford Books Product,Global Supplies Ltd,India,22.3,14.27,36.01,4.3,186,Discontinued
+P000126,Sports,Running Shoes,Under Armour,Curry Flow,NextGen Supply,China,430.81,277.99,35.47,4.7,389,Active
+P000127,Toys,Educational,Mattel,Mattel Toys Product,Elite Imports,Vietnam,125.84,71.68,43.04,4.6,180,Discontinued
+P000128,Books,Technology,Oxford,Oxford Books Product,ABC Wholesale,India,43.71,25.89,40.77,3.6,63,Active
+P000129,Toys,Outdoor,LEGO,LEGO Toys Product,NextGen Supply,Vietnam,123.65,76.28,38.31,4.4,307,Active
+P000130,Fashion,Jackets,Levi's,Levi's Fashion Product,NextGen Supply,USA,138.42,100.32,27.52,3.6,167,Active
+P000131,Books,Business,Penguin,Penguin Books Product,Universal Traders,India,16.05,9.54,40.56,4.8,199,Active
+P000132,Fashion,Clothing,Puma,Puma Fashion Product,Elite Imports,USA,177.07,120.45,31.98,4.4,365,Active
+P000133,Sports,Football,Nike,Air Zoom Pegasus 41,NextGen Supply,USA,175.22,96.71,44.81,3.5,465,Active
+P000134,Toys,Educational,LEGO,LEGO Toys Product,NextGen Supply,South Korea,146.05,69.74,52.25,4.3,212,Discontinued
+P000135,Accessories,Watch,Casio,Casio Accessories Product,ABC Wholesale,Vietnam,183.18,125.12,31.7,4.4,63,Active
+P000136,Home,Lighting,IKEA,IKEA Home Product,Global Supplies Ltd,South Korea,79.04,46.08,41.7,4.1,330,Discontinued
+P000137,Toys,Educational,Mattel,Mattel Toys Product,Universal Traders,China,58.32,28.18,51.68,4.5,323,Discontinued
+P000138,Sports,Football,Nike,Air Zoom Pegasus 41,Universal Traders,China,33.61,18.16,45.97,3.8,90,Active
+P000139,Sports,Running Shoes,Puma,Future Ultimate,Elite Imports,South Korea,232.41,113.59,51.13,4.3,137,Active
+P000140,Fashion,Shoes,Levi's,Levi's Fashion Product,Elite Imports,China,148.73,70.4,52.67,4.0,239,Discontinued
+P000141,Toys,Educational,Mattel,Mattel Toys Product,Elite Imports,China,145.27,72.86,49.85,4.9,255,Active
+P000142,Fashion,Shoes,Levi's,Levi's Fashion Product,Prime Distribution,Japan,184.88,112.26,39.28,4.1,178,Active
+P000143,Beauty,Skincare,Lakme,Lakme Beauty Product,Global Supplies Ltd,Germany,52.49,31.98,39.07,3.8,417,Active
+P000144,Books,Business,Oxford,Oxford Books Product,Prime Distribution,India,13.35,7.03,47.34,3.8,98,Active
+P000145,Home,Kitchen,Prestige,Prestige Home Product,Elite Imports,USA,457.53,285.43,37.62,4.5,471,Active
+P000146,Books,Technology,Penguin,Penguin Books Product,Global Supplies Ltd,Japan,30.99,16.76,45.92,3.9,48,Active
+P000147,Fashion,Jeans,Puma,Puma Fashion Product,Elite Imports,China,35.93,25.13,30.06,3.6,462,Active
+P000148,Toys,Outdoor,Mattel,Mattel Toys Product,Universal Traders,USA,113.45,52.45,53.77,4.9,312,Active
+P000149,Books,Technology,Oxford,Oxford Books Product,Universal Traders,India,57.8,33.82,41.49,4.7,448,Active
+P000150,Fashion,Clothing,Zara,Zara Fashion Product,Global Supplies Ltd,India,218.13,163.01,25.27,4.3,332,Active
+P000151,Books,Technology,HarperCollins,HarperCollins Books Product,Elite Imports,Japan,48.27,31.55,34.64,3.6,343,Active
+P000152,Fashion,Shoes,Puma,Puma Fashion Product,Universal Traders,South Korea,128.24,67.4,47.44,4.8,484,Active
+P000153,Books,Business,Penguin,Penguin Books Product,NextGen Supply,India,55.67,30.23,45.7,4.5,359,Discontinued
+P000154,Home,Lighting,Prestige,Prestige Home Product,Global Supplies Ltd,Vietnam,453.75,291.78,35.7,4.0,85,Active
+P000155,Toys,Building Blocks,Hasbro,Hasbro Toys Product,Global Supplies Ltd,Vietnam,53.24,39.15,26.47,4.0,412,Discontinued
+P000156,Beauty,Skincare,Maybelline,Maybelline Beauty Product,Prime Distribution,China,27.18,18.66,31.35,4.3,296,Active
+P000157,Books,Self Help,Oxford,Oxford Books Product,Universal Traders,Japan,16.02,8.08,49.56,4.5,339,Active
+P000158,Accessories,Bag,Fossil,Fossil Accessories Product,ABC Wholesale,South Korea,182.7,135.36,25.91,4.4,405,Discontinued
+P000159,Beauty,Makeup,Maybelline,Maybelline Beauty Product,Elite Imports,USA,19.55,12.78,34.63,4.4,245,Discontinued
+P000160,Sports,Running Shoes,Under Armour,Curry Flow,Prime Distribution,USA,314.19,223.67,28.81,3.6,266,Active
+P000161,Fashion,Shoes,Zara,Zara Fashion Product,ABC Wholesale,China,233.67,124.27,46.82,4.9,95,Discontinued
+P000162,Fashion,Jeans,Adidas,Adidas Fashion Product,ABC Wholesale,China,136.17,77.47,43.11,4.1,217,Active
+P000163,Books,Self Help,Penguin,Penguin Books Product,ABC Wholesale,China,51.64,33.31,35.5,4.7,90,Active
+P000164,Sports,Gym Equipment,Under Armour,HOVR Phantom,Elite Imports,Japan,319.21,230.39,27.82,3.5,130,Active
+P000165,Toys,Building Blocks,LEGO,LEGO Toys Product,Prime Distribution,Vietnam,27.06,14.11,47.86,4.5,338,Discontinued
+P000166,Fashion,Jeans,Nike,Nike Fashion Product,Universal Traders,Germany,24.6,14.87,39.55,3.9,93,Active
+P000167,Toys,Outdoor,LEGO,LEGO Toys Product,ABC Wholesale,India,89.89,45.5,49.38,4.5,288,Active
+P000168,Fashion,Shoes,Zara,Zara Fashion Product,Elite Imports,USA,151.64,97.16,35.93,5.0,149,Active
+P000169,Books,Technology,Penguin,Penguin Books Product,Prime Distribution,South Korea,42.17,20.29,51.89,4.4,407,Active
+P000170,Home,Kitchen,IKEA,IKEA Home Product,Universal Traders,Vietnam,653.6,328.45,49.75,4.7,257,Discontinued
+P000171,Home,Furniture,IKEA,IKEA Home Product,NextGen Supply,USA,755.73,348.46,53.89,3.8,425,Active
+P000172,Electronics,Television,Sony,PlayStation 5,Elite Imports,USA,1426.12,750.13,47.4,4.6,117,Active
+P000173,Books,Business,Penguin,Penguin Books Product,ABC Wholesale,Vietnam,14.47,8.11,43.95,4.8,400,Discontinued
+P000174,Toys,Educational,Mattel,Mattel Toys Product,Elite Imports,South Korea,79.65,57.93,27.27,4.3,430,Active
+P000175,Toys,Building Blocks,LEGO,LEGO Toys Product,Universal Traders,USA,35.26,18.97,46.2,3.7,187,Active
+P000176,Sports,Running Shoes,Under Armour,Curry Flow,NextGen Supply,Japan,195.23,90.33,53.73,4.8,200,Discontinued
+P000177,Sports,Gym Equipment,Nike,Air Zoom Pegasus 41,NextGen Supply,Japan,200.76,138.59,30.97,4.5,35,Active
+P000178,Accessories,Watch,Fossil,Fossil Accessories Product,Global Supplies Ltd,India,196.84,110.21,44.01,4.1,310,Active
+P000179,Home,Kitchen,Prestige,Prestige Home Product,ABC Wholesale,Vietnam,363.49,171.95,52.69,3.7,207,Discontinued
+P000180,Books,Technology,Oxford,Oxford Books Product,Prime Distribution,China,9.35,4.73,49.41,4.3,487,Active
+P000181,Sports,Running Shoes,Puma,Velocity Nitro,Universal Traders,Vietnam,356.17,266.98,25.04,3.8,89,Active
+P000182,Accessories,Wallet,Fossil,Fossil Accessories Product,Elite Imports,China,204.52,151.4,25.97,5.0,361,Active
+P000183,Fashion,Jackets,Zara,Zara Fashion Product,ABC Wholesale,USA,64.1,42.49,33.71,4.6,109,Active
+P000184,Beauty,Skincare,L'Oréal,L'Oréal Beauty Product,Prime Distribution,India,64.28,29.43,54.22,4.3,208,Discontinued
+P000185,Home,Furniture,Prestige,Prestige Home Product,Global Supplies Ltd,Vietnam,327.56,217.85,33.49,4.2,230,Discontinued
+P000186,Fashion,Jackets,Adidas,Adidas Fashion Product,NextGen Supply,China,145.99,95.48,34.6,4.0,469,Active
+P000187,Home,Lighting,Philips,Philips Home Product,Global Supplies Ltd,USA,112.47,55.77,50.41,3.7,185,Active
+P000188,Books,Technology,Oxford,Oxford Books Product,Global Supplies Ltd,Vietnam,18.21,13.42,26.3,3.9,340,Active
+P000189,Fashion,Clothing,Zara,Zara Fashion Product,Universal Traders,Germany,63.17,40.91,35.24,4.6,329,Active
+P000190,Electronics,Smartphone,Apple,iPhone 15 Pro,NextGen Supply,USA,1505.41,971.5,35.47,4.7,233,Active
+P000191,Accessories,Wallet,Titan,Titan Accessories Product,ABC Wholesale,South Korea,239.6,142.53,40.51,4.7,370,Discontinued
+P000192,Sports,Gym Equipment,Under Armour,HOVR Phantom,Global Supplies Ltd,India,236.61,140.85,40.47,3.8,330,Active
+P000193,Books,Technology,Oxford,Oxford Books Product,NextGen Supply,USA,25.96,14.79,43.03,4.6,283,Active
+P000194,Books,Technology,Penguin,Penguin Books Product,Global Supplies Ltd,Vietnam,31.38,15.45,50.76,3.6,216,Discontinued
+P000195,Beauty,Makeup,Maybelline,Maybelline Beauty Product,Universal Traders,South Korea,28.45,19.32,32.09,4.2,283,Discontinued
+P000196,Accessories,Bag,Casio,Casio Accessories Product,Global Supplies Ltd,China,236.86,142.5,39.84,5.0,130,Active
+P000197,Electronics,Headphones,Apple,iPad Air,Universal Traders,USA,1687.51,997.62,40.88,4.3,453,Active
+P000198,Toys,Building Blocks,LEGO,LEGO Toys Product,NextGen Supply,Vietnam,116.94,65.46,44.02,4.1,311,Active
+P000199,Books,Technology,Oxford,Oxford Books Product,Global Supplies Ltd,Japan,34.22,23.25,32.06,3.9,339,Active
+P000200,Home,Kitchen,IKEA,IKEA Home Product,ABC Wholesale,USA,789.63,487.48,38.26,4.0,93,Active
+P000201,Toys,Educational,Hasbro,Hasbro Toys Product,Global Supplies Ltd,China,29.19,16.05,45.02,4.2,253,Active
+P000202,Home,Lighting,Philips,Philips Home Product,ABC Wholesale,India,323.47,205.39,36.5,4.8,323,Active
+P000203,Accessories,Wallet,Titan,Titan Accessories Product,ABC Wholesale,Japan,205.78,115.34,43.95,4.5,233,Active
+P000204,Electronics,Tablet,HP,Pavilion Laptop,NextGen Supply,USA,2434.33,1517.91,37.65,3.8,46,Discontinued
+P000205,Home,Lighting,Prestige,Prestige Home Product,NextGen Supply,Germany,623.07,351.45,43.59,4.7,144,Active
+P000206,Fashion,Shoes,Adidas,Adidas Fashion Product,Elite Imports,Vietnam,137.26,78.77,42.61,3.8,276,Discontinued
+P000207,Electronics,Television,Lenovo,ThinkPad X1 Carbon,Prime Distribution,Germany,913.87,592.8,35.13,4.3,180,Active
+P000208,Accessories,Bag,Titan,Titan Accessories Product,Universal Traders,Vietnam,172.21,122.32,28.97,4.5,431,Active
+P000209,Accessories,Watch,Fossil,Fossil Accessories Product,ABC Wholesale,Germany,81.64,59.8,26.75,5.0,414,Active
+P000210,Beauty,Makeup,Nivea,Nivea Beauty Product,Elite Imports,Vietnam,47.04,34.36,26.96,4.6,167,Active
+P000211,Toys,Building Blocks,Mattel,Mattel Toys Product,Prime Distribution,Vietnam,15.89,11.7,26.37,3.6,493,Discontinued
+P000212,Sports,Running Shoes,Under Armour,HOVR Phantom,Universal Traders,Vietnam,468.52,308.69,34.11,3.7,335,Active
+P000213,Beauty,Haircare,L'Oréal,L'Oréal Beauty Product,Universal Traders,India,52.85,24.61,53.43,4.1,387,Discontinued
+P000214,Fashion,Shoes,Adidas,Adidas Fashion Product,Universal Traders,India,133.93,97.84,26.95,4.8,264,Active
+P000215,Sports,Gym Equipment,Puma,Velocity Nitro,Global Supplies Ltd,USA,72.05,44.83,37.78,4.3,390,Active
+P000216,Home,Furniture,Philips,Philips Home Product,Global Supplies Ltd,USA,326.64,195.53,40.14,4.9,466,Active
+P000217,Electronics,Television,Apple,iPad Air,Universal Traders,China,2331.87,1283.72,44.95,4.2,348,Discontinued
+P000218,Home,Kitchen,Prestige,Prestige Home Product,ABC Wholesale,India,649.92,356.94,45.08,4.6,351,Active
+P000219,Home,Lighting,IKEA,IKEA Home Product,ABC Wholesale,USA,246.59,160.86,34.77,3.8,332,Discontinued
+P000220,Toys,Building Blocks,Hasbro,Hasbro Toys Product,Global Supplies Ltd,Japan,103.7,52.41,49.46,3.7,185,Active
+P000221,Electronics,Laptop,Sony,PlayStation 5,Elite Imports,USA,777.44,426.73,45.11,4.4,313,Active
+P000222,Sports,Running Shoes,Puma,Future Ultimate,NextGen Supply,China,248.74,123.85,50.21,4.5,492,Active
+P000223,Fashion,Jackets,Puma,Puma Fashion Product,Universal Traders,India,81.36,39.87,51.0,3.7,402,Active
+P000224,Toys,Outdoor,Hasbro,Hasbro Toys Product,Elite Imports,USA,85.25,55.35,35.07,3.8,146,Active
+P000225,Accessories,Wallet,Titan,Titan Accessories Product,ABC Wholesale,China,230.14,111.31,51.63,4.7,482,Active
+P000226,Home,Kitchen,IKEA,IKEA Home Product,Universal Traders,Japan,106.25,54.36,48.84,4.4,66,Discontinued
+P000227,Electronics,Television,Dell,XPS 15 Laptop,Elite Imports,Japan,1475.19,911.14,38.24,4.5,177,Active
+P000228,Toys,Educational,Mattel,Mattel Toys Product,NextGen Supply,India,90.96,42.17,53.64,4.0,52,Active
+P000229,Fashion,Shoes,Levi's,Levi's Fashion Product,ABC Wholesale,Japan,70.39,34.54,50.93,4.5,393,Discontinued
+P000230,Books,Technology,HarperCollins,HarperCollins Books Product,Elite Imports,Japan,12.17,9.0,26.05,4.8,88,Active
+P000231,Fashion,Jeans,Adidas,Adidas Fashion Product,Universal Traders,India,223.8,115.66,48.32,3.5,31,Active
+P000232,Accessories,Wallet,Titan,Titan Accessories Product,Universal Traders,Japan,137.66,95.95,30.3,3.9,197,Active
+P000233,Sports,Running Shoes,Adidas,Adizero Boston,Global Supplies Ltd,USA,340.29,215.91,36.55,4.9,475,Active
+P000234,Beauty,Skincare,Maybelline,Maybelline Beauty Product,Global Supplies Ltd,Germany,7.52,4.73,37.1,4.6,44,Active
+P000235,Electronics,Laptop,Dell,Inspiron 16,Universal Traders,India,1922.81,1312.93,31.72,3.7,168,Active
+P000236,Books,Business,Oxford,Oxford Books Product,NextGen Supply,USA,24.67,13.33,45.97,3.7,358,Active
+P000237,Toys,Building Blocks,Mattel,Mattel Toys Product,Global Supplies Ltd,Germany,142.79,101.94,28.61,4.9,340,Discontinued
+P000238,Accessories,Bag,Fossil,Fossil Accessories Product,NextGen Supply,South Korea,101.48,61.63,39.27,4.5,229,Active
+P000239,Sports,Gym Equipment,Under Armour,HOVR Phantom,Elite Imports,India,429.19,231.86,45.98,4.6,432,Discontinued
+P000240,Electronics,Headphones,HP,Pavilion Laptop,Universal Traders,Germany,465.12,243.19,47.71,3.8,351,Active
+P000241,Accessories,Watch,Casio,Casio Accessories Product,Universal Traders,South Korea,209.06,97.31,53.45,4.1,329,Active
+P000242,Fashion,Clothing,Adidas,Adidas Fashion Product,Elite Imports,India,263.45,144.87,45.01,4.9,27,Active
+P000243,Beauty,Haircare,L'Oréal,L'Oréal Beauty Product,Elite Imports,India,57.17,37.8,33.88,4.1,142,Active
+P000244,Sports,Gym Equipment,Under Armour,Curry Flow,NextGen Supply,Vietnam,174.96,97.61,44.21,4.8,258,Active
+P000245,Accessories,Watch,Casio,Casio Accessories Product,ABC Wholesale,Vietnam,109.34,67.65,38.13,3.8,94,Active
+P000246,Sports,Running Shoes,Under Armour,Curry Flow,Prime Distribution,Vietnam,138.11,85.76,37.9,3.9,301,Active
+P000247,Sports,Football,Under Armour,Curry Flow,Prime Distribution,South Korea,403.64,202.13,49.92,4.6,270,Active
+P000248,Electronics,Smartphone,HP,Spectre x360,NextGen Supply,China,1946.2,1116.57,42.63,4.8,138,Active
+P000249,Home,Furniture,IKEA,IKEA Home Product,Universal Traders,Japan,307.96,195.66,36.47,4.5,335,Discontinued
+P000250,Accessories,Watch,Fossil,Fossil Accessories Product,Universal Traders,Germany,108.72,49.47,54.5,4.6,294,Active
+P000251,Electronics,Headphones,HP,LaserJet Pro,Prime Distribution,China,2307.41,1401.33,39.27,3.9,337,Active
+P000252,Books,Technology,HarperCollins,HarperCollins Books Product,Global Supplies Ltd,Vietnam,57.88,34.02,41.22,3.9,376,Active
+P000253,Sports,Gym Equipment,Nike,Mercurial Vapor,Global Supplies Ltd,China,220.48,124.16,43.69,4.2,346,Active
+P000254,Home,Kitchen,IKEA,IKEA Home Product,Elite Imports,South Korea,630.74,390.91,38.02,4.8,68,Active
+P000255,Beauty,Haircare,Maybelline,Maybelline Beauty Product,Universal Traders,Japan,25.33,18.42,27.28,4.5,163,Active
+P000256,Home,Furniture,Philips,Philips Home Product,Prime Distribution,Germany,128.19,89.25,30.38,4.7,495,Active
+P000257,Sports,Running Shoes,Adidas,Adizero Boston,Universal Traders,USA,429.24,280.34,34.69,4.3,216,Active
+P000258,Fashion,Jackets,Zara,Zara Fashion Product,Global Supplies Ltd,China,142.38,99.89,29.84,4.0,413,Discontinued
+P000259,Books,Business,Penguin,Penguin Books Product,ABC Wholesale,USA,59.61,35.6,40.28,4.0,212,Discontinued
+P000260,Home,Lighting,Prestige,Prestige Home Product,NextGen Supply,Japan,82.27,52.29,36.44,4.7,385,Active
+P000261,Fashion,Clothing,Puma,Puma Fashion Product,Elite Imports,South Korea,239.49,118.85,50.37,4.1,204,Active
+P000262,Fashion,Jackets,Nike,Nike Fashion Product,Elite Imports,Vietnam,233.18,112.08,51.93,3.6,240,Discontinued
+P000263,Toys,Educational,LEGO,LEGO Toys Product,Global Supplies Ltd,Vietnam,87.59,55.1,37.09,4.7,462,Discontinued
+P000264,Electronics,Headphones,Sony,PlayStation 5,Global Supplies Ltd,South Korea,2267.67,1636.27,27.84,5.0,312,Active
+P000265,Toys,Educational,LEGO,LEGO Toys Product,ABC Wholesale,Vietnam,47.58,23.49,50.63,3.8,161,Discontinued
+P000266,Sports,Football,Under Armour,HOVR Phantom,ABC Wholesale,India,368.82,220.83,40.13,4.4,254,Active
+P000267,Home,Furniture,Philips,Philips Home Product,Elite Imports,Vietnam,675.67,381.06,43.6,4.8,245,Active
+P000268,Toys,Outdoor,Hasbro,Hasbro Toys Product,Prime Distribution,Vietnam,54.89,40.3,26.58,3.8,180,Active
+P000269,Toys,Building Blocks,Mattel,Mattel Toys Product,NextGen Supply,South Korea,98.61,73.0,25.97,4.7,186,Discontinued
+P000270,Sports,Running Shoes,Under Armour,Curry Flow,Universal Traders,India,308.35,189.23,38.63,4.5,301,Active
+P000271,Accessories,Watch,Titan,Titan Accessories Product,Elite Imports,USA,79.92,52.58,34.21,4.7,427,Discontinued
+P000272,Accessories,Wallet,Fossil,Fossil Accessories Product,ABC Wholesale,India,70.64,35.05,50.38,4.1,213,Active
+P000273,Accessories,Bag,Titan,Titan Accessories Product,Universal Traders,Japan,138.25,100.51,27.3,4.8,234,Active
+P000274,Books,Business,Oxford,Oxford Books Product,Universal Traders,South Korea,55.55,26.82,51.72,3.9,360,Active
+P000275,Home,Lighting,Prestige,Prestige Home Product,Global Supplies Ltd,Germany,787.13,514.19,34.68,4.1,405,Active
+P000276,Toys,Educational,LEGO,LEGO Toys Product,Global Supplies Ltd,Vietnam,41.08,27.69,32.59,4.3,372,Active
+P000277,Accessories,Bag,Casio,Casio Accessories Product,Elite Imports,USA,173.09,113.74,34.29,3.7,32,Discontinued
+P000278,Fashion,Jeans,Puma,Puma Fashion Product,Global Supplies Ltd,China,252.77,169.11,33.1,4.0,195,Discontinued
+P000279,Beauty,Makeup,Nivea,Nivea Beauty Product,Elite Imports,China,37.86,24.95,34.1,4.0,173,Active
+P000280,Fashion,Jackets,Nike,Nike Fashion Product,NextGen Supply,China,209.6,104.65,50.07,5.0,144,Active
+P000281,Home,Lighting,Philips,Philips Home Product,Elite Imports,Japan,197.01,112.59,42.85,3.8,347,Discontinued
+P000282,Toys,Outdoor,LEGO,LEGO Toys Product,Universal Traders,India,72.94,42.22,42.12,3.5,129,Active
+P000283,Sports,Running Shoes,Nike,Mercurial Vapor,Universal Traders,India,201.92,102.8,49.09,3.7,363,Discontinued
+P000284,Books,Technology,Oxford,Oxford Books Product,Universal Traders,Japan,38.52,21.35,44.57,4.8,336,Active
+P000285,Sports,Running Shoes,Nike,Mercurial Vapor,ABC Wholesale,China,142.13,68.95,51.49,4.1,92,Discontinued
+P000286,Toys,Educational,Hasbro,Hasbro Toys Product,Universal Traders,Japan,69.23,41.26,40.4,4.3,490,Active
+P000287,Home,Kitchen,Philips,Philips Home Product,Prime Distribution,India,261.95,153.32,41.47,3.6,203,Active
+P000288,Accessories,Watch,Fossil,Fossil Accessories Product,Elite Imports,Germany,131.31,78.59,40.15,4.5,232,Discontinued
+P000289,Accessories,Watch,Fossil,Fossil Accessories Product,Universal Traders,China,201.01,103.75,48.39,3.5,135,Active
+P000290,Home,Lighting,Philips,Philips Home Product,NextGen Supply,USA,616.25,378.94,38.51,3.7,78,Active
+P000291,Books,Self Help,Oxford,Oxford Books Product,NextGen Supply,Japan,36.41,27.2,25.3,3.7,444,Active
+P000292,Sports,Football,Nike,Metcon 9,ABC Wholesale,USA,413.86,240.75,41.83,5.0,417,Active
+P000293,Beauty,Haircare,Lakme,Lakme Beauty Product,Universal Traders,South Korea,37.11,23.56,36.51,4.7,436,Active
+P000294,Electronics,Television,HP,Pavilion Laptop,ABC Wholesale,Germany,1416.11,774.75,45.29,4.6,168,Active
+P000295,Fashion,Jeans,Adidas,Adidas Fashion Product,Global Supplies Ltd,Vietnam,262.77,128.25,51.19,4.8,147,Active
+P000296,Books,Business,Penguin,Penguin Books Product,Elite Imports,Japan,15.39,9.85,36.0,4.4,212,Discontinued
+P000297,Fashion,Jeans,Nike,Nike Fashion Product,Universal Traders,South Korea,97.9,71.56,26.91,4.1,269,Active
+P000298,Electronics,Headphones,Lenovo,ThinkPad X1 Carbon,NextGen Supply,South Korea,1788.63,1261.04,29.5,4.7,223,Active
+P000299,Toys,Building Blocks,LEGO,LEGO Toys Product,ABC Wholesale,Vietnam,125.97,69.45,44.87,4.4,309,Discontinued
+P000300,Books,Self Help,Oxford,Oxford Books Product,Global Supplies Ltd,China,40.56,28.43,29.91,3.5,495,Active
+P000301,Accessories,Watch,Casio,Casio Accessories Product,Elite Imports,India,248.97,179.96,27.72,4.8,174,Active
+P000302,Sports,Football,Nike,Mercurial Vapor,ABC Wholesale,China,204.77,147.67,27.88,3.7,222,Active
+P000303,Beauty,Haircare,Nivea,Nivea Beauty Product,Global Supplies Ltd,South Korea,12.14,6.24,48.6,3.6,323,Active
+P000304,Accessories,Watch,Fossil,Fossil Accessories Product,NextGen Supply,Vietnam,206.11,153.85,25.36,4.1,87,Discontinued
+P000305,Fashion,Jeans,Adidas,Adidas Fashion Product,Global Supplies Ltd,South Korea,245.67,118.16,51.9,4.1,173,Active
+P000306,Toys,Outdoor,LEGO,LEGO Toys Product,NextGen Supply,India,19.58,12.12,38.1,4.4,104,Discontinued
+P000307,Books,Self Help,Oxford,Oxford Books Product,NextGen Supply,South Korea,15.87,9.1,42.66,4.5,460,Active
+P000308,Fashion,Clothing,Nike,Nike Fashion Product,Global Supplies Ltd,Germany,224.4,124.65,44.45,4.1,425,Active
+P000309,Beauty,Haircare,Lakme,Lakme Beauty Product,Global Supplies Ltd,India,46.5,29.3,36.99,4.4,418,Active
+P000310,Sports,Gym Equipment,Adidas,Adizero Boston,Universal Traders,India,381.49,205.49,46.13,3.6,479,Active
+P000311,Accessories,Watch,Casio,Casio Accessories Product,Prime Distribution,Japan,163.14,76.89,52.87,4.8,26,Active
+P000312,Books,Technology,Penguin,Penguin Books Product,Universal Traders,Japan,27.0,17.68,34.52,4.6,414,Active
+P000313,Electronics,Smartphone,HP,Spectre x360,ABC Wholesale,India,243.59,114.03,53.19,4.7,279,Active
+P000314,Toys,Outdoor,Mattel,Mattel Toys Product,Elite Imports,China,99.68,60.93,38.87,3.7,62,Active
+P000315,Fashion,Clothing,Zara,Zara Fashion Product,Prime Distribution,Germany,111.49,69.79,37.4,4.6,352,Active
+P000316,Sports,Running Shoes,Under Armour,HOVR Phantom,Prime Distribution,China,464.58,225.23,51.52,4.4,48,Active
+P000317,Home,Furniture,IKEA,IKEA Home Product,NextGen Supply,India,565.68,282.36,50.08,4.9,287,Active
+P000318,Home,Furniture,Philips,Philips Home Product,NextGen Supply,USA,700.67,469.37,33.01,3.7,480,Active
+P000319,Books,Technology,HarperCollins,HarperCollins Books Product,Universal Traders,China,21.67,16.09,25.75,4.4,274,Discontinued
+P000320,Books,Technology,Penguin,Penguin Books Product,Universal Traders,India,27.12,14.28,47.35,3.7,313,Active
+P000321,Beauty,Skincare,L'Oréal,L'Oréal Beauty Product,Global Supplies Ltd,India,8.45,4.73,44.02,4.9,111,Active
+P000322,Toys,Building Blocks,LEGO,LEGO Toys Product,Prime Distribution,Japan,138.22,75.47,45.4,4.7,312,Active
+P000323,Fashion,Shoes,Zara,Zara Fashion Product,Prime Distribution,India,245.21,182.54,25.56,4.9,55,Discontinued
+P000324,Sports,Running Shoes,Puma,Velocity Nitro,Universal Traders,Japan,33.75,17.22,48.98,4.3,175,Active
+P000325,Accessories,Wallet,Casio,Casio Accessories Product,Elite Imports,USA,196.21,131.41,33.03,4.3,427,Active
+P000326,Home,Kitchen,IKEA,IKEA Home Product,Global Supplies Ltd,India,440.11,282.01,35.92,4.5,24,Active
+P000327,Electronics,Tablet,Lenovo,Yoga 9i,Global Supplies Ltd,India,1395.06,727.45,47.86,4.2,50,Active
+P000328,Sports,Running Shoes,Nike,Air Zoom Pegasus 41,Universal Traders,Japan,359.4,201.89,43.83,5.0,63,Active
+P000329,Home,Kitchen,Prestige,Prestige Home Product,Global Supplies Ltd,Germany,460.74,267.46,41.95,4.9,141,Active
+P000330,Sports,Gym Equipment,Puma,Velocity Nitro,NextGen Supply,Vietnam,179.49,95.41,46.84,3.6,123,Active
+P000331,Fashion,Shoes,Adidas,Adidas Fashion Product,Prime Distribution,Japan,150.5,86.08,42.8,4.3,414,Active
+P000332,Accessories,Bag,Casio,Casio Accessories Product,ABC Wholesale,USA,38.78,19.28,50.28,4.5,443,Active
+P000333,Beauty,Skincare,Lakme,Lakme Beauty Product,Global Supplies Ltd,South Korea,23.62,13.15,44.33,4.3,366,Active
+P000334,Sports,Football,Adidas,Ultraboost 5,Elite Imports,Germany,381.6,200.32,47.51,4.2,431,Active
+P000335,Fashion,Shoes,Nike,Nike Fashion Product,Prime Distribution,India,75.48,43.04,42.98,4.5,500,Active
+P000336,Sports,Running Shoes,Nike,Air Zoom Pegasus 41,Prime Distribution,South Korea,238.41,116.5,51.13,4.9,444,Active
+P000337,Fashion,Jeans,Nike,Nike Fashion Product,Global Supplies Ltd,India,278.76,161.67,42.0,4.6,274,Active
+P000338,Toys,Building Blocks,Hasbro,Hasbro Toys Product,Prime Distribution,Vietnam,40.06,20.28,49.38,3.9,472,Active
+P000339,Electronics,Television,HP,LaserJet Pro,Prime Distribution,South Korea,843.5,483.83,42.64,4.3,51,Active
+P000340,Sports,Football,Under Armour,HOVR Phantom,Prime Distribution,South Korea,445.79,270.93,39.22,4.4,430,Active
+P000341,Toys,Building Blocks,Hasbro,Hasbro Toys Product,Elite Imports,Germany,119.4,66.05,44.68,4.3,184,Discontinued
+P000342,Sports,Football,Adidas,Ultraboost 5,Universal Traders,India,43.77,30.34,30.68,3.9,434,Discontinued
+P000343,Books,Self Help,Oxford,Oxford Books Product,Prime Distribution,China,20.89,10.91,47.77,4.3,425,Active
+P000344,Beauty,Makeup,Nivea,Nivea Beauty Product,Prime Distribution,India,22.74,12.4,45.47,4.6,203,Active
+P000345,Books,Business,Oxford,Oxford Books Product,Prime Distribution,Germany,57.32,40.18,29.9,4.7,272,Active
+P000346,Home,Furniture,Philips,Philips Home Product,Global Supplies Ltd,China,197.61,101.9,48.43,4.3,20,Active
+P000347,Beauty,Makeup,Maybelline,Maybelline Beauty Product,NextGen Supply,India,73.91,51.98,29.67,4.0,31,Active
+P000348,Home,Lighting,IKEA,IKEA Home Product,ABC Wholesale,China,308.27,225.83,26.74,4.1,71,Active
+P000349,Sports,Running Shoes,Puma,Future Ultimate,NextGen Supply,Japan,402.17,296.88,26.18,4.5,109,Active
+P000350,Beauty,Makeup,Maybelline,Maybelline Beauty Product,ABC Wholesale,South Korea,56.64,27.65,51.18,4.6,379,Discontinued
+P000351,Electronics,Tablet,Samsung,Galaxy Buds 3,Universal Traders,India,1653.17,795.56,51.88,4.2,189,Active
+P000352,Beauty,Makeup,Lakme,Lakme Beauty Product,Prime Distribution,South Korea,71.4,34.03,52.34,4.6,347,Active
+P000353,Accessories,Bag,Fossil,Fossil Accessories Product,Prime Distribution,India,176.36,97.91,44.48,4.7,388,Active
+P000354,Electronics,Headphones,Dell,Inspiron 16,Prime Distribution,Japan,1308.74,737.62,43.64,4.3,71,Discontinued
+P000355,Beauty,Makeup,Maybelline,Maybelline Beauty Product,Global Supplies Ltd,USA,68.43,36.85,46.15,4.0,73,Active
+P000356,Books,Technology,Penguin,Penguin Books Product,Prime Distribution,South Korea,11.9,8.72,26.72,5.0,193,Discontinued
+P000357,Electronics,Laptop,Dell,UltraSharp Monitor,Universal Traders,Japan,519.19,249.41,51.96,3.8,117,Discontinued
+P000358,Sports,Running Shoes,Puma,Velocity Nitro,Global Supplies Ltd,China,214.66,131.99,38.51,4.2,47,Active
+P000359,Electronics,Tablet,Dell,XPS 15 Laptop,NextGen Supply,South Korea,1560.51,795.71,49.01,3.5,107,Active
+P000360,Fashion,Shoes,Levi's,Levi's Fashion Product,ABC Wholesale,USA,131.29,78.34,40.33,4.5,66,Discontinued
+P000361,Home,Kitchen,Philips,Philips Home Product,ABC Wholesale,India,364.93,193.04,47.1,4.2,135,Active
+P000362,Electronics,Smartphone,Samsung,Galaxy Buds 3,Global Supplies Ltd,South Korea,957.91,586.66,38.76,5.0,321,Active
+P000363,Electronics,Headphones,Dell,UltraSharp Monitor,Universal Traders,South Korea,2187.2,1295.8,40.76,4.8,263,Active
+P000364,Fashion,Shoes,Levi's,Levi's Fashion Product,Universal Traders,Germany,272.13,187.81,30.99,4.5,337,Active
+P000365,Fashion,Clothing,Levi's,Levi's Fashion Product,Prime Distribution,India,246.37,120.19,51.22,4.1,369,Discontinued
+P000366,Beauty,Haircare,Maybelline,Maybelline Beauty Product,ABC Wholesale,Vietnam,73.31,53.09,27.58,3.6,218,Discontinued
+P000367,Books,Business,HarperCollins,HarperCollins Books Product,Elite Imports,USA,8.64,5.7,34.03,4.4,420,Discontinued
+P000368,Fashion,Clothing,Levi's,Levi's Fashion Product,Prime Distribution,Germany,184.62,125.08,32.25,4.9,493,Active
+P000369,Fashion,Jackets,Puma,Puma Fashion Product,Elite Imports,Vietnam,127.25,75.8,40.43,4.4,39,Active
+P000370,Sports,Gym Equipment,Under Armour,HOVR Phantom,Universal Traders,South Korea,356.02,164.35,53.84,4.8,189,Active
+P000371,Electronics,Tablet,Lenovo,Yoga 9i,ABC Wholesale,China,943.99,649.56,31.19,4.0,451,Discontinued
+P000372,Fashion,Clothing,Adidas,Adidas Fashion Product,ABC Wholesale,South Korea,144.07,100.52,30.23,3.9,233,Active
+P000373,Beauty,Skincare,Nivea,Nivea Beauty Product,Elite Imports,South Korea,41.33,25.0,39.51,4.1,48,Active
+P000374,Fashion,Jeans,Puma,Puma Fashion Product,Prime Distribution,USA,258.36,184.42,28.62,3.5,118,Active
+P000375,Electronics,Headphones,Samsung,Galaxy S25 Ultra,Global Supplies Ltd,Vietnam,1805.89,961.08,46.78,4.7,278,Discontinued
+P000376,Fashion,Clothing,Nike,Nike Fashion Product,ABC Wholesale,Japan,186.33,93.78,49.67,4.8,320,Active
+P000377,Books,Technology,Penguin,Penguin Books Product,NextGen Supply,USA,43.82,23.47,46.44,4.1,103,Active
+P000378,Beauty,Haircare,Maybelline,Maybelline Beauty Product,Prime Distribution,Vietnam,53.87,32.54,39.6,4.8,412,Active
+P000379,Accessories,Wallet,Fossil,Fossil Accessories Product,Prime Distribution,Germany,202.21,104.57,48.29,4.4,176,Active
+P000380,Toys,Building Blocks,Mattel,Mattel Toys Product,Elite Imports,Vietnam,40.55,21.92,45.94,4.3,339,Discontinued
+P000381,Fashion,Jackets,Nike,Nike Fashion Product,Universal Traders,South Korea,186.26,99.61,46.52,4.5,266,Active
+P000382,Books,Business,HarperCollins,HarperCollins Books Product,ABC Wholesale,USA,22.4,14.49,35.31,4.9,353,Active
+P000383,Beauty,Haircare,Maybelline,Maybelline Beauty Product,Prime Distribution,China,65.41,45.18,30.93,4.4,358,Active
+P000384,Home,Furniture,Prestige,Prestige Home Product,NextGen Supply,Japan,798.01,421.21,47.22,4.1,218,Active
+P000385,Beauty,Haircare,Lakme,Lakme Beauty Product,NextGen Supply,India,56.47,36.23,35.84,4.2,363,Active
+P000386,Sports,Gym Equipment,Adidas,Adizero Boston,Prime Distribution,Vietnam,75.87,37.05,51.17,3.9,433,Active
+P000387,Books,Self Help,Oxford,Oxford Books Product,Prime Distribution,Vietnam,19.61,13.95,28.86,4.1,474,Active
+P000388,Books,Business,HarperCollins,HarperCollins Books Product,ABC Wholesale,Japan,52.26,30.89,40.89,4.8,318,Active
+P000389,Accessories,Wallet,Fossil,Fossil Accessories Product,Global Supplies Ltd,USA,173.37,105.57,39.11,4.1,465,Active
+P000390,Home,Kitchen,IKEA,IKEA Home Product,Elite Imports,Germany,715.88,534.04,25.4,3.7,461,Active
+P000391,Fashion,Jackets,Levi's,Levi's Fashion Product,NextGen Supply,India,107.76,50.37,53.26,4.2,127,Active
+P000392,Home,Furniture,Philips,Philips Home Product,Prime Distribution,Germany,355.46,205.75,42.12,4.1,264,Discontinued
+P000393,Electronics,Tablet,Apple,MacBook Air M3,Global Supplies Ltd,Vietnam,1928.59,1175.11,39.07,3.5,22,Active
+P000394,Beauty,Makeup,Lakme,Lakme Beauty Product,Prime Distribution,China,33.77,21.16,37.34,3.8,441,Active
+P000395,Sports,Gym Equipment,Puma,Velocity Nitro,Universal Traders,Germany,276.34,160.3,41.99,4.5,88,Active
+P000396,Accessories,Watch,Casio,Casio Accessories Product,Prime Distribution,USA,106.81,55.38,48.15,4.6,87,Active
+P000397,Electronics,Laptop,HP,LaserJet Pro,Global Supplies Ltd,Vietnam,1821.11,1252.26,31.24,4.1,347,Active
+P000398,Electronics,Smartphone,HP,Spectre x360,NextGen Supply,USA,196.39,129.01,34.31,4.1,214,Active
+P000399,Sports,Running Shoes,Under Armour,HOVR Phantom,NextGen Supply,South Korea,326.25,176.28,45.97,4.5,359,Active
+P000400,Home,Furniture,Philips,Philips Home Product,Universal Traders,South Korea,499.89,267.35,46.52,4.7,274,Active
+P000401,Beauty,Haircare,Lakme,Lakme Beauty Product,Prime Distribution,Vietnam,57.76,31.11,46.14,3.6,274,Active
+P000402,Accessories,Watch,Casio,Casio Accessories Product,Global Supplies Ltd,China,171.19,123.61,27.79,4.8,362,Discontinued
+P000403,Home,Lighting,IKEA,IKEA Home Product,Global Supplies Ltd,South Korea,583.01,420.6,27.86,4.5,253,Active
+P000404,Sports,Running Shoes,Under Armour,HOVR Phantom,Prime Distribution,USA,48.54,26.07,46.29,4.7,180,Discontinued
+P000405,Fashion,Shoes,Nike,Nike Fashion Product,Global Supplies Ltd,USA,58.75,37.84,35.59,4.0,477,Discontinued
+P000406,Sports,Football,Nike,Metcon 9,Prime Distribution,China,218.37,161.31,26.13,3.9,217,Discontinued
+P000407,Toys,Educational,Hasbro,Hasbro Toys Product,Global Supplies Ltd,India,107.46,50.25,53.24,4.9,101,Active
+P000408,Toys,Building Blocks,Hasbro,Hasbro Toys Product,Universal Traders,South Korea,71.34,45.19,36.66,4.7,333,Active
+P000409,Home,Kitchen,Philips,Philips Home Product,Global Supplies Ltd,Japan,360.94,169.28,53.1,4.5,26,Active
+P000410,Books,Business,Oxford,Oxford Books Product,NextGen Supply,South Korea,40.15,23.28,42.02,4.6,266,Active
+P000411,Toys,Outdoor,LEGO,LEGO Toys Product,Universal Traders,China,11.63,8.49,27.0,4.3,260,Discontinued
+P000412,Home,Kitchen,IKEA,IKEA Home Product,ABC Wholesale,India,274.75,146.56,46.66,4.3,301,Discontinued
+P000413,Toys,Educational,LEGO,LEGO Toys Product,Elite Imports,Japan,122.18,71.41,41.55,4.8,248,Active
+P000414,Fashion,Shoes,Levi's,Levi's Fashion Product,Global Supplies Ltd,Japan,135.45,83.59,38.29,3.5,66,Active
+P000415,Beauty,Makeup,Nivea,Nivea Beauty Product,ABC Wholesale,USA,9.07,4.69,48.29,4.2,306,Discontinued
+P000416,Books,Technology,Oxford,Oxford Books Product,Global Supplies Ltd,China,47.48,24.52,48.36,4.0,444,Active
+P000417,Books,Self Help,Oxford,Oxford Books Product,Global Supplies Ltd,India,33.61,23.41,30.35,4.6,229,Active
+P000418,Sports,Running Shoes,Adidas,Ultraboost 5,Elite Imports,India,244.81,167.55,31.56,4.6,75,Discontinued
+P000419,Electronics,Television,Lenovo,Legion Pro 5,Global Supplies Ltd,USA,2245.62,1318.66,41.28,4.4,278,Active
+P000420,Accessories,Wallet,Fossil,Fossil Accessories Product,NextGen Supply,China,142.77,82.78,42.02,4.4,493,Active
+P000421,Home,Furniture,Prestige,Prestige Home Product,Global Supplies Ltd,Japan,531.15,335.61,36.81,4.0,471,Discontinued
+P000422,Toys,Outdoor,Hasbro,Hasbro Toys Product,Prime Distribution,Vietnam,65.7,36.32,44.72,3.9,432,Active
+P000423,Home,Lighting,Philips,Philips Home Product,NextGen Supply,South Korea,417.15,293.22,29.71,4.3,180,Active
+P000424,Beauty,Haircare,Maybelline,Maybelline Beauty Product,NextGen Supply,Vietnam,56.5,41.04,27.36,3.7,383,Active
+P000425,Books,Self Help,Oxford,Oxford Books Product,ABC Wholesale,Germany,32.98,20.49,37.87,4.5,233,Active
+P000426,Toys,Outdoor,LEGO,LEGO Toys Product,Global Supplies Ltd,China,63.32,29.5,53.41,3.6,156,Active
+P000427,Sports,Running Shoes,Puma,Future Ultimate,NextGen Supply,USA,168.72,114.07,32.39,3.5,436,Discontinued
+P000428,Fashion,Clothing,Zara,Zara Fashion Product,NextGen Supply,South Korea,177.16,92.35,47.87,4.7,428,Active
+P000429,Electronics,Headphones,Dell,Inspiron 16,NextGen Supply,Vietnam,2419.71,1127.93,53.39,4.6,123,Discontinued
+P000430,Beauty,Haircare,Lakme,Lakme Beauty Product,Universal Traders,South Korea,50.25,34.31,31.72,4.9,170,Discontinued
+P000431,Home,Furniture,Prestige,Prestige Home Product,Prime Distribution,India,592.04,287.62,51.42,3.6,162,Active
+P000432,Home,Lighting,IKEA,IKEA Home Product,ABC Wholesale,China,274.49,181.96,33.71,3.7,98,Active
+P000433,Electronics,Tablet,Lenovo,Legion Pro 5,Elite Imports,USA,1495.79,833.79,44.26,4.7,182,Active
+P000434,Home,Furniture,Prestige,Prestige Home Product,Universal Traders,India,341.51,208.7,38.89,3.6,133,Active
+P000435,Books,Technology,HarperCollins,HarperCollins Books Product,ABC Wholesale,India,57.42,36.49,36.45,4.2,307,Active
+P000436,Fashion,Jeans,Puma,Puma Fashion Product,Prime Distribution,South Korea,191.84,122.08,36.36,4.9,369,Active
+P000437,Toys,Building Blocks,LEGO,LEGO Toys Product,ABC Wholesale,Germany,111.36,50.94,54.26,4.3,414,Active
+P000438,Accessories,Watch,Casio,Casio Accessories Product,ABC Wholesale,South Korea,56.2,33.95,39.59,4.9,105,Active
+P000439,Fashion,Clothing,Adidas,Adidas Fashion Product,NextGen Supply,Japan,253.99,129.96,48.83,4.7,469,Discontinued
+P000440,Fashion,Shoes,Adidas,Adidas Fashion Product,Elite Imports,South Korea,112.88,53.76,52.37,3.6,426,Active
+P000441,Fashion,Clothing,Zara,Zara Fashion Product,ABC Wholesale,Japan,128.65,82.22,36.09,4.1,28,Discontinued
+P000442,Fashion,Shoes,Zara,Zara Fashion Product,NextGen Supply,South Korea,193.14,130.71,32.32,4.4,378,Active
+P000443,Books,Self Help,Oxford,Oxford Books Product,ABC Wholesale,USA,43.67,27.6,36.8,3.9,494,Discontinued
+P000444,Toys,Outdoor,Mattel,Mattel Toys Product,Global Supplies Ltd,Japan,31.89,16.45,48.42,4.6,427,Active
+P000445,Home,Lighting,Philips,Philips Home Product,NextGen Supply,South Korea,307.91,226.26,26.52,4.3,304,Active
+P000446,Fashion,Shoes,Nike,Nike Fashion Product,Universal Traders,Germany,130.34,80.06,38.58,3.6,127,Active
+P000447,Beauty,Haircare,Nivea,Nivea Beauty Product,Universal Traders,India,17.07,8.81,48.39,4.8,119,Active
+P000448,Home,Lighting,Prestige,Prestige Home Product,Global Supplies Ltd,USA,604.57,451.63,25.3,4.3,350,Active
+P000449,Sports,Running Shoes,Nike,Metcon 9,Prime Distribution,South Korea,302.88,222.76,26.45,4.0,363,Active
+P000450,Fashion,Shoes,Puma,Puma Fashion Product,Prime Distribution,Vietnam,156.04,85.59,45.15,4.5,375,Active
+P000451,Books,Technology,HarperCollins,HarperCollins Books Product,Prime Distribution,China,24.29,16.66,31.41,4.6,348,Discontinued
+P000452,Sports,Gym Equipment,Puma,Future Ultimate,NextGen Supply,Vietnam,442.61,260.63,41.12,4.0,176,Discontinued
+P000453,Fashion,Shoes,Adidas,Adidas Fashion Product,ABC Wholesale,USA,251.4,180.35,28.26,3.8,395,Active
+P000454,Fashion,Shoes,Nike,Nike Fashion Product,Universal Traders,Germany,133.44,83.67,37.3,4.9,302,Active
+P000455,Accessories,Watch,Titan,Titan Accessories Product,ABC Wholesale,Japan,63.59,43.35,31.83,4.6,168,Active
+P000456,Accessories,Wallet,Titan,Titan Accessories Product,Global Supplies Ltd,Japan,97.33,44.11,54.68,3.9,432,Active
+P000457,Home,Furniture,Philips,Philips Home Product,Prime Distribution,Germany,759.74,492.18,35.22,5.0,396,Discontinued
+P000458,Books,Self Help,Penguin,Penguin Books Product,Elite Imports,India,11.27,6.32,43.92,3.6,125,Active
+P000459,Toys,Building Blocks,Mattel,Mattel Toys Product,Global Supplies Ltd,China,147.28,80.59,45.28,4.6,286,Active
+P000460,Sports,Gym Equipment,Adidas,Predator Elite,Elite Imports,Vietnam,306.21,220.31,28.05,3.6,148,Discontinued
+P000461,Beauty,Makeup,Nivea,Nivea Beauty Product,ABC Wholesale,Japan,64.45,46.16,28.38,3.5,471,Active
+P000462,Accessories,Watch,Fossil,Fossil Accessories Product,Global Supplies Ltd,Germany,164.43,84.43,48.65,3.8,205,Active
+P000463,Beauty,Makeup,Nivea,Nivea Beauty Product,NextGen Supply,China,41.11,24.4,40.65,3.8,102,Discontinued
+P000464,Electronics,Laptop,Samsung,Galaxy S25 Ultra,Universal Traders,Germany,528.65,337.73,36.11,3.6,313,Active
+P000465,Electronics,Laptop,Samsung,Galaxy Tab S10,Universal Traders,Japan,1558.49,964.83,38.09,3.5,388,Active
+P000466,Fashion,Jeans,Adidas,Adidas Fashion Product,Universal Traders,Japan,262.84,131.73,49.88,4.7,327,Active
+P000467,Home,Lighting,Prestige,Prestige Home Product,Universal Traders,Vietnam,146.66,96.16,34.43,4.9,325,Active
+P000468,Beauty,Makeup,Nivea,Nivea Beauty Product,Prime Distribution,China,6.24,3.79,39.26,4.9,370,Discontinued
+P000469,Home,Furniture,Prestige,Prestige Home Product,Prime Distribution,Japan,722.76,455.3,37.01,4.8,292,Active
+P000470,Fashion,Clothing,Levi's,Levi's Fashion Product,Universal Traders,Germany,251.71,181.0,28.09,4.7,352,Discontinued
+P000471,Toys,Educational,Mattel,Mattel Toys Product,NextGen Supply,Germany,70.05,51.24,26.85,4.2,413,Discontinued
+P000472,Books,Business,Oxford,Oxford Books Product,NextGen Supply,Germany,13.08,6.41,50.99,4.2,139,Active
+P000473,Sports,Running Shoes,Under Armour,Curry Flow,Global Supplies Ltd,South Korea,379.51,171.59,54.79,4.3,286,Active
+P000474,Toys,Educational,Hasbro,Hasbro Toys Product,NextGen Supply,USA,54.23,30.3,44.13,3.7,353,Active
+P000475,Sports,Gym Equipment,Under Armour,Curry Flow,ABC Wholesale,South Korea,216.8,110.81,48.89,4.3,305,Discontinued
+P000476,Home,Lighting,Philips,Philips Home Product,Universal Traders,Japan,214.22,116.11,45.8,4.0,381,Discontinued
+P000477,Home,Furniture,Prestige,Prestige Home Product,NextGen Supply,India,365.58,241.21,34.02,3.7,129,Discontinued
+P000478,Books,Business,Oxford,Oxford Books Product,NextGen Supply,South Korea,44.75,22.3,50.17,4.9,22,Active
+P000479,Home,Lighting,Philips,Philips Home Product,Elite Imports,China,65.3,33.73,48.35,3.6,39,Discontinued
+P000480,Toys,Outdoor,Hasbro,Hasbro Toys Product,Universal Traders,Vietnam,109.62,68.98,37.07,4.9,439,Active
+P000481,Accessories,Watch,Casio,Casio Accessories Product,Prime Distribution,USA,167.65,115.88,30.88,3.9,37,Active
+P000482,Home,Furniture,Prestige,Prestige Home Product,ABC Wholesale,India,529.19,393.03,25.73,3.6,161,Discontinued
+P000483,Books,Technology,Oxford,Oxford Books Product,Elite Imports,Germany,18.42,8.37,54.56,4.6,490,Active
+P000484,Sports,Football,Puma,Velocity Nitro,Prime Distribution,Germany,482.64,283.03,41.36,4.1,22,Active
+P000485,Home,Lighting,Philips,Philips Home Product,Global Supplies Ltd,Germany,71.82,38.66,46.17,4.9,431,Active
+P000486,Sports,Gym Equipment,Under Armour,Curry Flow,Elite Imports,USA,144.34,79.66,44.81,4.7,368,Discontinued
+P000487,Electronics,Tablet,Dell,XPS 15 Laptop,Global Supplies Ltd,Japan,1639.11,1226.48,25.17,4.5,137,Active
+P000488,Toys,Outdoor,Mattel,Mattel Toys Product,Universal Traders,China,108.11,57.19,47.1,3.9,224,Active
+P000489,Fashion,Clothing,Zara,Zara Fashion Product,Elite Imports,Vietnam,118.99,85.47,28.17,3.9,402,Active
+P000490,Accessories,Watch,Titan,Titan Accessories Product,Prime Distribution,South Korea,68.09,36.06,47.04,3.8,447,Active
+P000491,Books,Self Help,Penguin,Penguin Books Product,Global Supplies Ltd,China,43.14,28.0,35.1,4.4,411,Active
+P000492,Accessories,Wallet,Casio,Casio Accessories Product,ABC Wholesale,Japan,225.55,161.11,28.57,4.4,160,Discontinued
+P000493,Home,Kitchen,Prestige,Prestige Home Product,Elite Imports,India,603.88,294.98,51.15,4.3,236,Discontinued
+P000494,Electronics,Headphones,HP,Pavilion Laptop,NextGen Supply,USA,560.78,416.63,25.71,4.5,255,Active
+P000495,Electronics,Headphones,Apple,MacBook Air M3,Universal Traders,China,914.78,579.82,36.62,3.9,300,Active
+P000496,Beauty,Makeup,Lakme,Lakme Beauty Product,Universal Traders,Vietnam,32.44,19.45,40.04,3.8,378,Active
+P000497,Books,Technology,HarperCollins,HarperCollins Books Product,Elite Imports,India,37.71,28.05,25.62,4.5,436,Active
+P000498,Sports,Football,Adidas,Adizero Boston,Elite Imports,India,98.55,72.7,26.23,3.7,432,Active
+P000499,Home,Kitchen,Philips,Philips Home Product,Prime Distribution,USA,510.06,311.24,38.98,4.0,269,Active
+P000500,Sports,Running Shoes,Nike,Metcon 9,NextGen Supply,India,58.22,40.41,30.59,4.2,342,Active
+P000501,Accessories,Bag,Titan,Titan Accessories Product,ABC Wholesale,Vietnam,96.47,59.55,38.27,4.7,196,Active
+P000502,Toys,Building Blocks,LEGO,LEGO Toys Product,NextGen Supply,Germany,37.85,23.57,37.73,4.5,109,Active
+P000503,Books,Business,HarperCollins,HarperCollins Books Product,Universal Traders,Japan,48.29,28.21,41.58,3.6,334,Active
+P000504,Accessories,Watch,Titan,Titan Accessories Product,Prime Distribution,South Korea,203.85,112.37,44.88,4.4,312,Discontinued
+P000505,Fashion,Clothing,Nike,Nike Fashion Product,ABC Wholesale,India,107.77,69.61,35.41,4.6,329,Discontinued
+P000506,Sports,Gym Equipment,Under Armour,Curry Flow,Universal Traders,Germany,483.8,277.8,42.58,3.8,31,Active
+P000507,Beauty,Haircare,Lakme,Lakme Beauty Product,NextGen Supply,South Korea,11.0,5.5,50.0,3.7,52,Discontinued
+P000508,Electronics,Television,Apple,AirPods Pro,Global Supplies Ltd,China,766.76,380.76,50.34,4.5,473,Discontinued
+P000509,Sports,Gym Equipment,Adidas,Ultraboost 5,ABC Wholesale,Japan,324.45,158.78,51.06,4.8,34,Active
+P000510,Books,Technology,HarperCollins,HarperCollins Books Product,Elite Imports,USA,36.11,19.2,46.83,4.2,377,Active
+P000511,Accessories,Wallet,Titan,Titan Accessories Product,NextGen Supply,Germany,114.39,73.43,35.81,4.3,485,Active
+P000512,Accessories,Watch,Titan,Titan Accessories Product,Global Supplies Ltd,Japan,83.89,48.12,42.64,3.7,25,Active
+P000513,Home,Kitchen,Philips,Philips Home Product,Elite Imports,Germany,21.53,15.64,27.36,4.9,264,Active
+P000514,Electronics,Television,Dell,Inspiron 16,Prime Distribution,USA,166.96,93.85,43.79,4.1,307,Discontinued
+P000515,Toys,Educational,LEGO,LEGO Toys Product,NextGen Supply,South Korea,100.44,70.16,30.15,3.8,60,Discontinued
+P000516,Beauty,Makeup,Lakme,Lakme Beauty Product,NextGen Supply,South Korea,44.9,23.83,46.93,3.8,55,Active
+P000517,Home,Furniture,Philips,Philips Home Product,NextGen Supply,Japan,499.92,265.78,46.84,4.4,116,Active
+P000518,Electronics,Television,Samsung,Galaxy S25 Ultra,Global Supplies Ltd,India,2434.98,1301.82,46.54,3.7,244,Active
+P000519,Beauty,Skincare,L'Oréal,L'Oréal Beauty Product,Global Supplies Ltd,Japan,21.29,12.26,42.41,4.7,275,Active
+P000520,Accessories,Watch,Titan,Titan Accessories Product,ABC Wholesale,China,212.45,156.26,26.45,3.6,417,Discontinued
+P000521,Fashion,Jeans,Zara,Zara Fashion Product,Prime Distribution,India,270.8,142.18,47.5,4.1,26,Active
+P000522,Beauty,Makeup,Nivea,Nivea Beauty Product,Prime Distribution,South Korea,79.59,40.57,49.03,4.6,68,Active
+P000523,Accessories,Wallet,Casio,Casio Accessories Product,ABC Wholesale,Vietnam,48.07,32.13,33.16,4.6,301,Active
+P000524,Sports,Running Shoes,Under Armour,Curry Flow,ABC Wholesale,China,435.92,224.65,48.47,3.7,344,Discontinued
+P000525,Books,Self Help,Penguin,Penguin Books Product,ABC Wholesale,Germany,14.22,9.77,31.29,3.5,41,Discontinued
+P000526,Home,Furniture,Philips,Philips Home Product,Prime Distribution,India,407.44,267.19,34.42,4.0,408,Active
+P000527,Electronics,Laptop,Sony,Bravia OLED TV,NextGen Supply,Germany,2009.95,980.35,51.23,3.8,305,Active
+P000528,Accessories,Watch,Titan,Titan Accessories Product,Global Supplies Ltd,South Korea,100.66,67.17,33.27,3.9,40,Discontinued
+P000529,Accessories,Bag,Titan,Titan Accessories Product,Universal Traders,South Korea,127.62,79.13,38.0,4.3,185,Discontinued
+P000530,Sports,Gym Equipment,Adidas,Ultraboost 5,Prime Distribution,Japan,168.97,89.39,47.1,4.1,20,Discontinued
+P000531,Home,Lighting,IKEA,IKEA Home Product,ABC Wholesale,USA,501.85,274.11,45.38,3.6,295,Discontinued
+P000532,Beauty,Haircare,Nivea,Nivea Beauty Product,Prime Distribution,Germany,26.23,15.03,42.7,4.0,69,Active
+P000533,Electronics,Smartphone,Samsung,Galaxy S25 Ultra,Prime Distribution,China,1290.62,619.02,52.04,4.4,448,Discontinued
+P000534,Accessories,Wallet,Titan,Titan Accessories Product,NextGen Supply,Germany,71.43,39.99,44.02,4.4,56,Active
+P000535,Beauty,Skincare,Nivea,Nivea Beauty Product,Elite Imports,USA,52.92,29.54,44.18,4.6,475,Discontinued
+P000536,Books,Self Help,Oxford,Oxford Books Product,Universal Traders,Vietnam,35.51,23.8,32.98,4.8,59,Active
+P000537,Fashion,Clothing,Nike,Nike Fashion Product,Universal Traders,Japan,73.05,44.4,39.22,3.9,340,Active
+P000538,Toys,Educational,Hasbro,Hasbro Toys Product,NextGen Supply,Germany,60.11,35.32,41.24,4.5,472,Active
+P000539,Home,Lighting,IKEA,IKEA Home Product,Elite Imports,Germany,279.95,139.26,50.26,5.0,246,Active
+P000540,Books,Technology,Oxford,Oxford Books Product,ABC Wholesale,Japan,47.74,27.65,42.08,4.6,331,Active
+P000541,Beauty,Haircare,Nivea,Nivea Beauty Product,NextGen Supply,Vietnam,32.0,18.74,41.44,4.9,20,Active
+P000542,Sports,Running Shoes,Nike,Mercurial Vapor,ABC Wholesale,China,171.16,88.42,48.34,4.8,31,Active
+P000543,Home,Furniture,IKEA,IKEA Home Product,Elite Imports,Vietnam,137.54,72.83,47.05,4.8,147,Active
+P000544,Sports,Gym Equipment,Puma,Future Ultimate,Elite Imports,Germany,461.4,309.27,32.97,4.6,425,Discontinued
+P000545,Home,Lighting,Philips,Philips Home Product,NextGen Supply,Germany,658.32,315.08,52.14,4.5,39,Discontinued
+P000546,Fashion,Jackets,Nike,Nike Fashion Product,ABC Wholesale,USA,141.61,103.24,27.1,3.7,414,Active
+P000547,Electronics,Headphones,Lenovo,Legion Pro 5,Global Supplies Ltd,Vietnam,1382.3,754.45,45.42,4.3,187,Active
+P000548,Home,Lighting,IKEA,IKEA Home Product,NextGen Supply,Japan,777.27,525.32,32.41,4.4,66,Active
+P000549,Toys,Building Blocks,Mattel,Mattel Toys Product,Prime Distribution,India,57.06,33.82,40.73,4.6,300,Discontinued
+P000550,Sports,Gym Equipment,Nike,Metcon 9,Elite Imports,USA,358.0,242.94,32.14,4.2,121,Discontinued
+P000551,Toys,Outdoor,Hasbro,Hasbro Toys Product,Prime Distribution,Germany,96.24,64.55,32.93,3.9,56,Active
+P000552,Toys,Outdoor,Mattel,Mattel Toys Product,Universal Traders,China,25.75,14.78,42.6,4.0,117,Active
+P000553,Books,Business,Oxford,Oxford Books Product,Global Supplies Ltd,USA,23.85,17.8,25.37,4.4,431,Discontinued
+P000554,Home,Furniture,Philips,Philips Home Product,Prime Distribution,India,553.01,274.73,50.32,4.6,63,Active
+P000555,Electronics,Laptop,Samsung,Galaxy Buds 3,ABC Wholesale,China,956.69,661.34,30.87,4.0,261,Active
+P000556,Books,Business,Penguin,Penguin Books Product,Universal Traders,India,18.6,11.29,39.3,3.9,267,Active
+P000557,Electronics,Television,Dell,UltraSharp Monitor,Global Supplies Ltd,Vietnam,550.25,294.5,46.48,4.7,336,Active
+P000558,Electronics,Smartphone,Dell,UltraSharp Monitor,Global Supplies Ltd,Japan,1701.88,1104.34,35.11,4.9,204,Active
+P000559,Electronics,Headphones,Sony,Bravia OLED TV,Prime Distribution,Japan,1345.07,891.66,33.71,4.9,268,Active
+P000560,Home,Lighting,IKEA,IKEA Home Product,Elite Imports,Germany,742.18,338.77,54.35,3.9,291,Active
+P000561,Books,Technology,HarperCollins,HarperCollins Books Product,NextGen Supply,India,8.96,5.87,34.49,4.0,174,Active
+P000562,Sports,Football,Nike,Mercurial Vapor,Elite Imports,USA,495.47,363.3,26.68,4.9,135,Active
+P000563,Books,Business,HarperCollins,HarperCollins Books Product,Prime Distribution,China,45.95,27.86,39.37,4.5,466,Active
+P000564,Toys,Outdoor,LEGO,LEGO Toys Product,Prime Distribution,Japan,145.88,105.46,27.71,4.0,297,Active
+P000565,Beauty,Haircare,Maybelline,Maybelline Beauty Product,Universal Traders,South Korea,65.01,46.08,29.12,4.0,381,Active
+P000566,Toys,Outdoor,LEGO,LEGO Toys Product,Universal Traders,India,54.45,33.61,38.27,4.9,80,Active
+P000567,Books,Business,Penguin,Penguin Books Product,Global Supplies Ltd,USA,24.57,18.23,25.8,4.9,175,Discontinued
+P000568,Sports,Running Shoes,Adidas,Ultraboost 5,Prime Distribution,India,42.31,31.55,25.43,4.4,330,Active
+P000569,Beauty,Haircare,Maybelline,Maybelline Beauty Product,Global Supplies Ltd,Vietnam,10.96,7.5,31.57,3.7,453,Discontinued
+P000570,Books,Technology,Penguin,Penguin Books Product,Elite Imports,Japan,15.15,7.7,49.17,3.5,411,Active
+P000571,Sports,Gym Equipment,Under Armour,HOVR Phantom,NextGen Supply,India,386.15,181.43,53.02,4.9,244,Discontinued
+P000572,Books,Self Help,HarperCollins,HarperCollins Books Product,Elite Imports,Japan,48.36,30.58,36.77,4.7,388,Active
+P000573,Toys,Outdoor,Hasbro,Hasbro Toys Product,Universal Traders,Germany,85.06,54.64,35.76,4.6,39,Active
+P000574,Accessories,Watch,Casio,Casio Accessories Product,Prime Distribution,Germany,139.09,103.64,25.49,3.6,218,Active
+P000575,Beauty,Makeup,Lakme,Lakme Beauty Product,Elite Imports,Vietnam,63.03,33.77,46.42,3.7,170,Active
+P000576,Home,Lighting,Philips,Philips Home Product,Elite Imports,China,582.28,281.8,51.6,4.7,500,Active
+P000577,Toys,Building Blocks,Mattel,Mattel Toys Product,Elite Imports,China,35.04,21.97,37.3,4.6,123,Discontinued
+P000578,Fashion,Jackets,Puma,Puma Fashion Product,NextGen Supply,South Korea,274.01,188.78,31.1,4.6,83,Active
+P000579,Fashion,Jackets,Levi's,Levi's Fashion Product,Global Supplies Ltd,Germany,218.04,145.66,33.2,5.0,333,Active
+P000580,Toys,Building Blocks,Hasbro,Hasbro Toys Product,Global Supplies Ltd,USA,33.92,18.67,44.96,4.8,461,Active
+P000581,Home,Furniture,IKEA,IKEA Home Product,NextGen Supply,China,344.37,186.94,45.72,4.7,248,Active
+P000582,Home,Furniture,IKEA,IKEA Home Product,Prime Distribution,China,503.71,264.92,47.41,4.2,457,Discontinued
+P000583,Electronics,Laptop,HP,Pavilion Laptop,Prime Distribution,Germany,1699.76,996.27,41.39,4.2,327,Active
+P000584,Beauty,Haircare,Lakme,Lakme Beauty Product,NextGen Supply,Germany,66.51,34.07,48.77,3.8,48,Active
+P000585,Electronics,Television,Samsung,Galaxy S25 Ultra,Universal Traders,Vietnam,928.11,442.07,52.37,3.7,111,Active
+P000586,Sports,Gym Equipment,Adidas,Predator Elite,Universal Traders,Vietnam,467.8,223.58,52.21,3.9,208,Discontinued
+P000587,Fashion,Shoes,Levi's,Levi's Fashion Product,ABC Wholesale,Japan,57.67,37.97,34.16,3.9,289,Discontinued
+P000588,Beauty,Haircare,Maybelline,Maybelline Beauty Product,Global Supplies Ltd,China,47.85,35.59,25.62,4.3,64,Discontinued
+P000589,Sports,Football,Under Armour,Curry Flow,Universal Traders,Germany,497.66,276.78,44.38,3.7,308,Discontinued
+P000590,Accessories,Watch,Casio,Casio Accessories Product,Universal Traders,India,180.06,133.92,25.62,3.5,32,Discontinued
+P000591,Fashion,Jeans,Adidas,Adidas Fashion Product,Elite Imports,China,113.46,70.13,38.19,4.5,25,Active
+P000592,Sports,Football,Puma,Future Ultimate,ABC Wholesale,Germany,288.5,196.21,31.99,3.7,190,Active
+P000593,Toys,Outdoor,Hasbro,Hasbro Toys Product,Universal Traders,China,126.49,64.28,49.18,4.8,492,Discontinued
+P000594,Accessories,Wallet,Fossil,Fossil Accessories Product,Prime Distribution,Japan,47.29,27.82,41.17,4.8,478,Active
+P000595,Accessories,Wallet,Casio,Casio Accessories Product,Global Supplies Ltd,USA,135.06,83.67,38.05,4.5,304,Active
+P000596,Beauty,Makeup,Lakme,Lakme Beauty Product,Global Supplies Ltd,India,26.03,11.96,54.05,5.0,340,Active
+P000597,Toys,Outdoor,LEGO,LEGO Toys Product,Global Supplies Ltd,USA,119.53,64.84,45.75,4.8,383,Active
+P000598,Sports,Football,Under Armour,HOVR Phantom,Prime Distribution,Vietnam,242.4,178.22,26.48,3.8,174,Active
+P000599,Fashion,Shoes,Puma,Puma Fashion Product,Prime Distribution,China,144.26,66.0,54.25,4.2,276,Active
+P000600,Beauty,Makeup,Lakme,Lakme Beauty Product,NextGen Supply,USA,44.27,30.22,31.74,3.7,466,Active
+P000601,Home,Lighting,IKEA,IKEA Home Product,Global Supplies Ltd,Japan,319.26,226.5,29.05,3.7,179,Active
+P000602,Fashion,Jeans,Puma,Puma Fashion Product,Global Supplies Ltd,China,165.76,107.36,35.23,4.0,315,Active
+P000603,Beauty,Skincare,Lakme,Lakme Beauty Product,Prime Distribution,Vietnam,25.75,14.05,45.44,4.2,80,Active
+P000604,Home,Kitchen,IKEA,IKEA Home Product,Global Supplies Ltd,China,767.26,474.08,38.21,3.7,297,Active
+P000605,Books,Self Help,HarperCollins,HarperCollins Books Product,NextGen Supply,USA,22.73,11.9,47.65,3.6,333,Active
+P000606,Accessories,Watch,Fossil,Fossil Accessories Product,Global Supplies Ltd,Japan,226.79,105.49,53.49,4.1,64,Discontinued
+P000607,Toys,Outdoor,LEGO,LEGO Toys Product,Universal Traders,Germany,98.13,64.48,34.29,4.2,202,Active
+P000608,Books,Business,Penguin,Penguin Books Product,NextGen Supply,USA,35.74,26.52,25.8,4.6,258,Active
+P000609,Fashion,Shoes,Levi's,Levi's Fashion Product,Elite Imports,Vietnam,211.65,140.34,33.69,4.2,138,Active
+P000610,Home,Kitchen,Prestige,Prestige Home Product,ABC Wholesale,Japan,158.93,115.25,27.48,4.0,460,Active
+P000611,Accessories,Watch,Casio,Casio Accessories Product,Global Supplies Ltd,Japan,37.09,22.02,40.63,4.8,164,Active
+P000612,Home,Furniture,Prestige,Prestige Home Product,Elite Imports,USA,575.7,277.54,51.79,4.3,56,Active
+P000613,Accessories,Wallet,Casio,Casio Accessories Product,Elite Imports,India,159.01,97.69,38.56,5.0,216,Active
+P000614,Books,Business,Penguin,Penguin Books Product,Universal Traders,Japan,48.78,28.32,41.94,4.7,298,Active
+P000615,Home,Lighting,Prestige,Prestige Home Product,Global Supplies Ltd,South Korea,745.73,464.04,37.77,4.2,323,Discontinued
+P000616,Books,Self Help,Oxford,Oxford Books Product,Elite Imports,India,24.02,13.73,42.84,4.4,370,Discontinued
+P000617,Books,Business,HarperCollins,HarperCollins Books Product,NextGen Supply,China,12.71,8.83,30.53,4.8,482,Active
+P000618,Home,Furniture,Prestige,Prestige Home Product,Elite Imports,Germany,243.83,154.75,36.53,4.2,125,Active
+P000619,Sports,Gym Equipment,Puma,Velocity Nitro,ABC Wholesale,China,303.88,192.49,36.66,4.3,453,Active
+P000620,Sports,Gym Equipment,Nike,Metcon 9,Global Supplies Ltd,China,360.58,251.05,30.38,4.0,460,Active
+P000621,Electronics,Television,Samsung,Galaxy Tab S10,Elite Imports,South Korea,897.6,507.0,43.52,4.1,299,Active
+P000622,Home,Furniture,Philips,Philips Home Product,Prime Distribution,Germany,316.91,230.5,27.27,4.8,98,Active
+P000623,Home,Furniture,IKEA,IKEA Home Product,Global Supplies Ltd,South Korea,27.33,18.21,33.37,4.2,243,Active
+P000624,Fashion,Jeans,Adidas,Adidas Fashion Product,Elite Imports,USA,214.71,156.54,27.09,4.4,252,Discontinued
+P000625,Accessories,Bag,Casio,Casio Accessories Product,Prime Distribution,India,111.95,50.63,54.77,4.2,394,Active
+P000626,Sports,Running Shoes,Under Armour,Curry Flow,Global Supplies Ltd,Germany,257.14,144.15,43.94,4.4,373,Active
+P000627,Home,Lighting,Prestige,Prestige Home Product,Universal Traders,USA,787.18,538.16,31.63,4.2,60,Active
+P000628,Beauty,Haircare,Nivea,Nivea Beauty Product,NextGen Supply,South Korea,77.03,36.47,52.65,4.5,428,Active
+P000629,Electronics,Smartphone,Sony,Bravia OLED TV,Elite Imports,Japan,1354.76,800.35,40.92,4.6,235,Active
+P000630,Sports,Running Shoes,Puma,Future Ultimate,NextGen Supply,Germany,382.23,255.36,33.19,4.3,51,Discontinued
+P000631,Home,Furniture,Prestige,Prestige Home Product,NextGen Supply,Vietnam,649.98,414.23,36.27,3.9,62,Active
+P000632,Fashion,Jackets,Puma,Puma Fashion Product,Prime Distribution,Germany,98.67,69.79,29.27,3.5,77,Active
+P000633,Home,Kitchen,Prestige,Prestige Home Product,ABC Wholesale,USA,152.69,104.56,31.52,3.9,112,Active
+P000634,Books,Self Help,Penguin,Penguin Books Product,Universal Traders,USA,16.02,9.59,40.14,5.0,414,Discontinued
+P000635,Beauty,Haircare,Nivea,Nivea Beauty Product,NextGen Supply,India,20.81,13.95,32.96,4.0,348,Active
+P000636,Fashion,Clothing,Nike,Nike Fashion Product,Elite Imports,Japan,153.34,90.91,40.71,4.9,492,Active
+P000637,Toys,Outdoor,Hasbro,Hasbro Toys Product,Elite Imports,Japan,46.77,28.49,39.08,4.2,167,Discontinued
+P000638,Toys,Building Blocks,Hasbro,Hasbro Toys Product,Universal Traders,South Korea,143.82,68.92,52.08,4.3,201,Discontinued
+P000639,Sports,Football,Puma,Velocity Nitro,Global Supplies Ltd,Vietnam,337.54,191.5,43.27,4.7,403,Active
+P000640,Beauty,Haircare,Lakme,Lakme Beauty Product,NextGen Supply,India,28.5,12.92,54.67,3.5,54,Active
+P000641,Toys,Outdoor,LEGO,LEGO Toys Product,Global Supplies Ltd,South Korea,72.43,37.36,48.42,3.9,118,Active
+P000642,Electronics,Smartphone,HP,Spectre x360,Universal Traders,South Korea,2250.82,1159.28,48.5,4.4,82,Active
+P000643,Fashion,Clothing,Zara,Zara Fashion Product,Elite Imports,South Korea,233.88,150.71,35.56,4.7,114,Active
+P000644,Home,Kitchen,Philips,Philips Home Product,Elite Imports,South Korea,749.9,481.16,35.84,4.9,161,Discontinued
+P000645,Books,Self Help,HarperCollins,HarperCollins Books Product,Global Supplies Ltd,Vietnam,48.41,27.34,43.52,4.0,50,Active
+P000646,Sports,Running Shoes,Adidas,Predator Elite,Elite Imports,India,316.84,159.54,49.65,4.2,93,Discontinued
+P000647,Beauty,Makeup,L'Oréal,L'Oréal Beauty Product,NextGen Supply,Vietnam,12.75,6.02,52.78,4.4,148,Discontinued
+P000648,Electronics,Smartphone,Dell,XPS 15 Laptop,Global Supplies Ltd,South Korea,1067.64,529.0,50.45,4.0,220,Active
+P000649,Accessories,Bag,Casio,Casio Accessories Product,Elite Imports,USA,184.66,128.1,30.63,3.6,135,Active
+P000650,Toys,Building Blocks,Hasbro,Hasbro Toys Product,Global Supplies Ltd,Germany,84.94,63.49,25.25,4.0,175,Discontinued
+P000651,Electronics,Smartphone,Lenovo,Legion Pro 5,ABC Wholesale,Germany,2155.35,1189.79,44.8,4.8,409,Active
+P000652,Beauty,Haircare,Maybelline,Maybelline Beauty Product,Global Supplies Ltd,Japan,54.56,29.44,46.04,4.1,74,Active
+P000653,Accessories,Wallet,Fossil,Fossil Accessories Product,Elite Imports,South Korea,55.47,25.56,53.92,3.5,323,Active
+P000654,Accessories,Watch,Casio,Casio Accessories Product,Universal Traders,South Korea,83.86,51.17,38.98,4.8,250,Active
+P000655,Electronics,Tablet,Sony,WH-1000XM5,NextGen Supply,China,1102.94,566.36,48.65,4.5,287,Discontinued
+P000656,Home,Lighting,Prestige,Prestige Home Product,Prime Distribution,China,43.95,21.64,50.76,4.5,261,Active
+P000657,Beauty,Skincare,Maybelline,Maybelline Beauty Product,Prime Distribution,South Korea,8.75,4.74,45.83,4.7,253,Active
+P000658,Fashion,Shoes,Nike,Nike Fashion Product,Elite Imports,Germany,243.77,125.83,48.38,4.7,238,Active
+P000659,Toys,Educational,Mattel,Mattel Toys Product,NextGen Supply,Germany,86.42,47.23,45.35,4.9,129,Active
+P000660,Home,Furniture,Philips,Philips Home Product,Global Supplies Ltd,Vietnam,125.87,72.32,42.54,4.5,303,Active
+P000661,Accessories,Wallet,Fossil,Fossil Accessories Product,Global Supplies Ltd,India,33.99,23.94,29.57,4.4,418,Active
+P000662,Electronics,Smartphone,Dell,XPS 15 Laptop,Global Supplies Ltd,India,2326.42,1540.14,33.8,4.4,165,Discontinued
+P000663,Accessories,Watch,Titan,Titan Accessories Product,Prime Distribution,India,163.56,99.27,39.31,4.1,500,Active
+P000664,Electronics,Headphones,HP,Spectre x360,Universal Traders,China,1623.9,1112.01,31.52,4.0,22,Active
+P000665,Beauty,Haircare,L'Oréal,L'Oréal Beauty Product,Global Supplies Ltd,Germany,32.14,21.8,32.17,4.3,132,Discontinued
+P000666,Beauty,Skincare,Lakme,Lakme Beauty Product,Prime Distribution,China,64.75,42.45,34.44,5.0,262,Discontinued
+P000667,Home,Lighting,IKEA,IKEA Home Product,Global Supplies Ltd,China,521.22,279.12,46.45,4.2,191,Discontinued
+P000668,Electronics,Television,Apple,iPhone 15 Pro,Prime Distribution,India,1995.91,1188.6,40.45,3.7,478,Active
+P000669,Accessories,Wallet,Titan,Titan Accessories Product,ABC Wholesale,Japan,57.7,37.68,34.7,4.0,418,Active
+P000670,Books,Self Help,Penguin,Penguin Books Product,Prime Distribution,South Korea,29.45,15.02,49.0,4.8,57,Discontinued
+P000671,Accessories,Bag,Fossil,Fossil Accessories Product,Prime Distribution,India,232.69,136.47,41.35,4.1,89,Discontinued
+P000672,Beauty,Makeup,Lakme,Lakme Beauty Product,Prime Distribution,Vietnam,14.54,9.56,34.25,3.6,89,Active
+P000673,Accessories,Bag,Casio,Casio Accessories Product,Prime Distribution,USA,92.46,66.19,28.41,4.4,424,Active
+P000674,Beauty,Makeup,L'Oréal,L'Oréal Beauty Product,Universal Traders,Japan,69.66,35.87,48.51,4.2,256,Active
+P000675,Electronics,Laptop,Lenovo,Yoga 9i,Prime Distribution,Vietnam,1170.48,604.81,48.33,4.9,96,Active
+P000676,Toys,Educational,LEGO,LEGO Toys Product,Elite Imports,South Korea,117.6,54.11,53.99,4.3,265,Active
+P000677,Accessories,Watch,Casio,Casio Accessories Product,Global Supplies Ltd,Germany,190.74,125.5,34.2,4.1,131,Active
+P000678,Books,Self Help,HarperCollins,HarperCollins Books Product,NextGen Supply,China,8.83,5.75,34.88,3.7,255,Active
+P000679,Accessories,Watch,Casio,Casio Accessories Product,NextGen Supply,Japan,54.39,38.7,28.85,4.4,380,Active
+P000680,Fashion,Jackets,Levi's,Levi's Fashion Product,Universal Traders,China,103.05,69.65,32.41,4.5,333,Active
+P000681,Fashion,Jackets,Zara,Zara Fashion Product,NextGen Supply,China,164.13,118.67,27.7,4.0,46,Active
+P000682,Toys,Building Blocks,Mattel,Mattel Toys Product,Universal Traders,China,61.18,30.75,49.74,4.3,54,Active
+P000683,Home,Furniture,Philips,Philips Home Product,Universal Traders,China,524.5,352.05,32.88,4.6,466,Active
+P000684,Beauty,Makeup,Lakme,Lakme Beauty Product,ABC Wholesale,Germany,56.02,29.87,46.68,3.6,196,Discontinued
+P000685,Accessories,Wallet,Titan,Titan Accessories Product,Global Supplies Ltd,Japan,180.36,117.86,34.65,4.3,169,Discontinued
+P000686,Books,Business,Oxford,Oxford Books Product,Global Supplies Ltd,India,54.38,31.94,41.27,3.6,479,Active
+P000687,Sports,Running Shoes,Nike,Air Zoom Pegasus 41,ABC Wholesale,China,357.63,214.18,40.11,4.8,286,Active
+P000688,Sports,Football,Under Armour,HOVR Phantom,ABC Wholesale,Japan,238.61,153.52,35.66,3.9,52,Active
+P000689,Beauty,Makeup,Lakme,Lakme Beauty Product,Universal Traders,Vietnam,54.18,37.17,31.4,4.2,360,Discontinued
+P000690,Accessories,Wallet,Casio,Casio Accessories Product,Prime Distribution,USA,83.56,57.39,31.32,3.8,210,Active
+P000691,Electronics,Tablet,Samsung,Galaxy Tab S10,Elite Imports,India,1603.78,799.06,50.18,4.3,113,Active
+P000692,Home,Furniture,IKEA,IKEA Home Product,Global Supplies Ltd,China,795.11,494.84,37.76,4.2,209,Active
+P000693,Beauty,Haircare,L'Oréal,L'Oréal Beauty Product,ABC Wholesale,Vietnam,16.1,9.41,41.55,5.0,293,Active
+P000694,Fashion,Jeans,Nike,Nike Fashion Product,Elite Imports,USA,60.71,35.66,41.26,4.0,22,Active
+P000695,Sports,Gym Equipment,Under Armour,Curry Flow,NextGen Supply,India,405.8,271.3,33.14,4.9,193,Active
+P000696,Accessories,Watch,Fossil,Fossil Accessories Product,NextGen Supply,Germany,38.05,17.41,54.24,4.4,132,Discontinued
+P000697,Books,Technology,Penguin,Penguin Books Product,Global Supplies Ltd,Germany,41.35,25.84,37.51,3.8,499,Active
+P000698,Beauty,Skincare,L'Oréal,L'Oréal Beauty Product,Universal Traders,USA,38.41,25.02,34.86,3.6,282,Discontinued
+P000699,Beauty,Makeup,Nivea,Nivea Beauty Product,Universal Traders,Germany,43.37,20.25,53.31,4.5,223,Active
+P000700,Toys,Building Blocks,Mattel,Mattel Toys Product,ABC Wholesale,China,49.85,27.69,44.45,5.0,467,Active
+P000701,Beauty,Haircare,Nivea,Nivea Beauty Product,Elite Imports,USA,38.19,19.06,50.09,4.6,479,Discontinued
+P000702,Toys,Outdoor,LEGO,LEGO Toys Product,Universal Traders,China,30.11,16.29,45.9,5.0,288,Active
+P000703,Fashion,Jeans,Zara,Zara Fashion Product,Global Supplies Ltd,China,134.65,97.53,27.57,4.1,304,Discontinued
+P000704,Home,Furniture,IKEA,IKEA Home Product,Elite Imports,Vietnam,449.79,208.1,53.73,4.7,447,Active
+P000705,Accessories,Wallet,Titan,Titan Accessories Product,Elite Imports,India,16.44,7.41,54.93,3.9,347,Discontinued
+P000706,Fashion,Jeans,Puma,Puma Fashion Product,Prime Distribution,Japan,273.9,176.24,35.66,3.5,411,Active
+P000707,Accessories,Wallet,Fossil,Fossil Accessories Product,NextGen Supply,Vietnam,149.46,92.62,38.03,4.8,341,Discontinued
+P000708,Fashion,Shoes,Puma,Puma Fashion Product,ABC Wholesale,India,182.86,90.3,50.62,4.2,374,Active
+P000709,Books,Self Help,Penguin,Penguin Books Product,ABC Wholesale,Vietnam,29.81,21.57,27.64,4.0,168,Active
+P000710,Fashion,Clothing,Zara,Zara Fashion Product,NextGen Supply,India,234.11,147.4,37.04,3.8,185,Active
+P000711,Sports,Running Shoes,Puma,Velocity Nitro,Universal Traders,Germany,195.27,96.29,50.69,3.7,164,Active
+P000712,Accessories,Bag,Casio,Casio Accessories Product,Prime Distribution,China,62.29,37.44,39.89,4.7,427,Active
+P000713,Toys,Educational,Mattel,Mattel Toys Product,Global Supplies Ltd,USA,28.37,12.91,54.49,4.0,373,Active
+P000714,Home,Lighting,Philips,Philips Home Product,Universal Traders,USA,776.54,389.56,49.83,4.0,401,Active
+P000715,Beauty,Haircare,Maybelline,Maybelline Beauty Product,Prime Distribution,South Korea,21.99,10.72,51.25,3.7,60,Discontinued
+P000716,Fashion,Shoes,Nike,Nike Fashion Product,Elite Imports,USA,140.75,71.63,49.11,3.5,357,Active
+P000717,Accessories,Bag,Fossil,Fossil Accessories Product,Global Supplies Ltd,China,82.39,37.33,54.69,3.6,83,Active
+P000718,Beauty,Haircare,Maybelline,Maybelline Beauty Product,ABC Wholesale,China,11.81,8.31,29.64,4.9,316,Active
+P000719,Books,Business,Penguin,Penguin Books Product,NextGen Supply,Germany,20.57,12.78,37.87,3.6,316,Active
+P000720,Beauty,Makeup,Maybelline,Maybelline Beauty Product,Prime Distribution,USA,45.28,33.6,25.8,3.6,129,Discontinued
+P000721,Books,Business,Oxford,Oxford Books Product,Prime Distribution,Japan,43.02,20.74,51.79,4.8,214,Discontinued
+P000722,Beauty,Makeup,Maybelline,Maybelline Beauty Product,Global Supplies Ltd,USA,78.85,38.41,51.29,3.7,89,Discontinued
+P000723,Books,Technology,Oxford,Oxford Books Product,Universal Traders,South Korea,10.11,5.54,45.2,3.7,165,Discontinued
+P000724,Sports,Gym Equipment,Under Armour,HOVR Phantom,Elite Imports,Vietnam,492.93,285.11,42.16,4.8,478,Discontinued
+P000725,Books,Self Help,Penguin,Penguin Books Product,NextGen Supply,Japan,42.95,24.43,43.12,4.3,366,Active
+P000726,Fashion,Jeans,Adidas,Adidas Fashion Product,Elite Imports,South Korea,185.36,89.07,51.95,4.9,106,Active
+P000727,Books,Technology,Penguin,Penguin Books Product,Prime Distribution,Germany,51.89,29.64,42.88,3.8,237,Discontinued
+P000728,Sports,Football,Puma,Velocity Nitro,Elite Imports,South Korea,313.49,179.11,42.87,4.2,162,Active
+P000729,Accessories,Watch,Fossil,Fossil Accessories Product,ABC Wholesale,Japan,129.35,82.59,36.15,3.7,70,Active
+P000730,Fashion,Shoes,Levi's,Levi's Fashion Product,Prime Distribution,Japan,189.28,103.74,45.19,4.0,339,Active
+P000731,Fashion,Jeans,Zara,Zara Fashion Product,Elite Imports,India,102.2,61.26,40.06,4.3,297,Active
+P000732,Electronics,Smartphone,Apple,AirPods Pro,Elite Imports,Japan,889.21,500.54,43.71,4.2,36,Active
+P000733,Sports,Football,Adidas,Predator Elite,Prime Distribution,Vietnam,366.39,218.46,40.38,3.7,365,Discontinued
+P000734,Accessories,Wallet,Casio,Casio Accessories Product,Prime Distribution,Germany,23.38,12.37,47.09,4.4,213,Active
+P000735,Sports,Running Shoes,Puma,Future Ultimate,Universal Traders,China,90.25,50.53,44.01,4.7,318,Active
+P000736,Books,Self Help,HarperCollins,HarperCollins Books Product,Elite Imports,Vietnam,59.58,34.17,42.65,3.6,145,Active
+P000737,Beauty,Haircare,Lakme,Lakme Beauty Product,Global Supplies Ltd,South Korea,9.91,5.37,45.81,4.0,30,Active
+P000738,Electronics,Headphones,Dell,UltraSharp Monitor,Universal Traders,Germany,2268.31,1202.17,47.0,4.5,321,Active
+P000739,Books,Business,HarperCollins,HarperCollins Books Product,Elite Imports,Vietnam,37.77,26.16,30.74,3.7,365,Active
+P000740,Books,Business,HarperCollins,HarperCollins Books Product,NextGen Supply,Vietnam,16.66,8.99,46.04,5.0,123,Discontinued
+P000741,Fashion,Clothing,Zara,Zara Fashion Product,ABC Wholesale,Vietnam,33.31,24.94,25.13,4.1,135,Active
+P000742,Fashion,Jackets,Zara,Zara Fashion Product,ABC Wholesale,China,178.6,108.82,39.07,4.1,197,Active
+P000743,Sports,Gym Equipment,Puma,Velocity Nitro,Universal Traders,Vietnam,124.04,70.79,42.93,4.4,252,Active
+P000744,Electronics,Television,Lenovo,Legion Pro 5,Prime Distribution,Germany,1323.13,857.71,35.18,4.7,500,Discontinued
+P000745,Sports,Gym Equipment,Under Armour,HOVR Phantom,Prime Distribution,Vietnam,247.37,129.15,47.79,4.6,411,Active
+P000746,Toys,Building Blocks,Mattel,Mattel Toys Product,Global Supplies Ltd,South Korea,38.5,22.09,42.62,4.7,350,Active
+P000747,Sports,Running Shoes,Adidas,Predator Elite,Global Supplies Ltd,India,120.2,62.95,47.63,4.7,257,Discontinued
+P000748,Toys,Outdoor,Mattel,Mattel Toys Product,Global Supplies Ltd,India,32.31,15.86,50.91,3.9,431,Active
+P000749,Home,Furniture,Prestige,Prestige Home Product,NextGen Supply,Japan,629.05,293.51,53.34,4.8,180,Active
+P000750,Fashion,Jackets,Levi's,Levi's Fashion Product,NextGen Supply,South Korea,268.0,152.51,43.09,4.8,451,Active
+P000751,Beauty,Haircare,L'Oréal,L'Oréal Beauty Product,NextGen Supply,Germany,74.97,45.48,39.34,4.7,416,Active
+P000752,Accessories,Watch,Fossil,Fossil Accessories Product,Universal Traders,China,195.57,106.39,45.6,4.7,397,Discontinued
+P000753,Beauty,Skincare,Nivea,Nivea Beauty Product,Prime Distribution,China,18.14,13.44,25.91,4.2,150,Active
+P000754,Accessories,Bag,Titan,Titan Accessories Product,NextGen Supply,China,85.96,49.61,42.29,4.5,162,Active
+P000755,Books,Business,HarperCollins,HarperCollins Books Product,ABC Wholesale,USA,24.02,15.46,35.64,4.9,37,Active
+P000756,Beauty,Haircare,Lakme,Lakme Beauty Product,Elite Imports,Vietnam,52.92,34.94,33.98,4.9,370,Active
+P000757,Beauty,Makeup,Nivea,Nivea Beauty Product,Global Supplies Ltd,Japan,74.56,54.08,27.47,4.0,499,Active
+P000758,Sports,Football,Adidas,Ultraboost 5,NextGen Supply,Vietnam,443.35,301.49,32.0,4.1,37,Active
+P000759,Fashion,Jeans,Levi's,Levi's Fashion Product,NextGen Supply,Japan,279.42,153.63,45.02,4.1,490,Active
+P000760,Home,Kitchen,Prestige,Prestige Home Product,Universal Traders,China,291.21,183.65,36.94,4.7,397,Active
+P000761,Accessories,Watch,Titan,Titan Accessories Product,Global Supplies Ltd,South Korea,163.98,104.79,36.1,4.7,89,Active
+P000762,Toys,Outdoor,LEGO,LEGO Toys Product,ABC Wholesale,Vietnam,90.61,43.79,51.67,3.9,385,Active
+P000763,Toys,Building Blocks,Mattel,Mattel Toys Product,Elite Imports,USA,112.92,59.64,47.18,4.5,443,Active
+P000764,Sports,Football,Adidas,Ultraboost 5,ABC Wholesale,India,214.94,121.05,43.68,4.8,312,Active
+P000765,Electronics,Smartphone,Apple,MacBook Air M3,Elite Imports,India,765.19,539.88,29.44,3.6,336,Discontinued
+P000766,Sports,Football,Adidas,Ultraboost 5,Prime Distribution,Germany,85.15,56.67,33.45,4.2,491,Discontinued
+P000767,Accessories,Watch,Fossil,Fossil Accessories Product,NextGen Supply,India,55.73,39.49,29.14,4.7,167,Discontinued
+P000768,Toys,Building Blocks,LEGO,LEGO Toys Product,Prime Distribution,Germany,40.18,28.01,30.29,4.6,116,Discontinued
+P000769,Home,Furniture,Philips,Philips Home Product,Global Supplies Ltd,Vietnam,781.26,406.76,47.94,4.2,147,Active
+P000770,Accessories,Watch,Fossil,Fossil Accessories Product,Elite Imports,India,219.15,162.68,25.77,4.1,128,Discontinued
+P000771,Toys,Outdoor,Hasbro,Hasbro Toys Product,ABC Wholesale,China,23.34,10.91,53.26,4.0,140,Discontinued
+P000772,Books,Business,Oxford,Oxford Books Product,Universal Traders,South Korea,46.91,21.75,53.63,3.9,337,Discontinued
+P000773,Sports,Running Shoes,Under Armour,Curry Flow,Universal Traders,China,302.83,159.92,47.19,4.3,496,Active
+P000774,Accessories,Watch,Fossil,Fossil Accessories Product,ABC Wholesale,South Korea,137.3,67.63,50.74,3.7,42,Active
+P000775,Accessories,Wallet,Casio,Casio Accessories Product,ABC Wholesale,Japan,77.9,55.55,28.69,4.4,409,Active
+P000776,Books,Self Help,HarperCollins,HarperCollins Books Product,ABC Wholesale,South Korea,59.72,40.56,32.08,3.7,456,Discontinued
+P000777,Electronics,Smartphone,Samsung,Galaxy S25 Ultra,Prime Distribution,India,234.28,123.72,47.19,4.6,243,Active
+P000778,Accessories,Bag,Fossil,Fossil Accessories Product,ABC Wholesale,South Korea,144.61,84.93,41.27,3.7,388,Active
+P000779,Fashion,Shoes,Puma,Puma Fashion Product,Prime Distribution,USA,99.55,69.73,29.95,4.6,441,Active
+P000780,Beauty,Haircare,L'Oréal,L'Oréal Beauty Product,Universal Traders,India,36.23,17.14,52.69,4.7,366,Active
+P000781,Books,Technology,Penguin,Penguin Books Product,NextGen Supply,South Korea,14.34,8.06,43.79,4.9,74,Active
+P000782,Home,Furniture,IKEA,IKEA Home Product,Elite Imports,USA,570.55,338.88,40.6,4.4,157,Active
+P000783,Books,Business,Penguin,Penguin Books Product,Universal Traders,Japan,24.9,16.67,33.05,4.6,428,Active
+P000784,Beauty,Haircare,L'Oréal,L'Oréal Beauty Product,ABC Wholesale,Vietnam,64.86,43.66,32.69,4.3,328,Discontinued
+P000785,Fashion,Jackets,Levi's,Levi's Fashion Product,Prime Distribution,India,290.21,205.95,29.03,3.6,456,Active
+P000786,Home,Kitchen,Philips,Philips Home Product,ABC Wholesale,South Korea,605.76,391.45,35.38,3.7,271,Discontinued
+P000787,Sports,Gym Equipment,Adidas,Predator Elite,Global Supplies Ltd,USA,202.7,103.37,49.0,4.2,218,Discontinued
+P000788,Sports,Football,Under Armour,HOVR Phantom,ABC Wholesale,Germany,117.59,75.16,36.08,3.6,282,Active
+P000789,Accessories,Watch,Titan,Titan Accessories Product,NextGen Supply,South Korea,181.27,132.18,27.08,4.3,351,Active
+P000790,Sports,Running Shoes,Under Armour,Curry Flow,Elite Imports,Vietnam,99.85,48.76,51.17,4.9,450,Active
+P000791,Toys,Outdoor,Mattel,Mattel Toys Product,Global Supplies Ltd,Germany,20.71,9.6,53.65,3.7,237,Discontinued
+P000792,Fashion,Jackets,Levi's,Levi's Fashion Product,ABC Wholesale,Vietnam,183.96,125.2,31.94,3.5,399,Discontinued
+P000793,Home,Kitchen,IKEA,IKEA Home Product,Global Supplies Ltd,China,341.76,226.01,33.87,4.0,390,Discontinued
+P000794,Accessories,Bag,Titan,Titan Accessories Product,ABC Wholesale,USA,204.4,104.92,48.67,3.6,329,Active
+P000795,Fashion,Shoes,Levi's,Levi's Fashion Product,Global Supplies Ltd,Japan,52.67,26.42,49.84,4.2,374,Discontinued
+P000796,Accessories,Wallet,Casio,Casio Accessories Product,Universal Traders,Vietnam,175.76,129.88,26.1,4.5,431,Active
+P000797,Fashion,Clothing,Adidas,Adidas Fashion Product,Global Supplies Ltd,India,51.34,23.35,54.52,5.0,459,Active
+P000798,Beauty,Haircare,Nivea,Nivea Beauty Product,Prime Distribution,South Korea,23.13,16.25,29.74,4.8,295,Active
+P000799,Fashion,Jeans,Puma,Puma Fashion Product,Prime Distribution,Japan,138.13,66.98,51.51,4.9,398,Discontinued
+P000800,Accessories,Watch,Casio,Casio Accessories Product,Elite Imports,Germany,68.23,36.74,46.15,4.7,220,Active
+P000801,Books,Self Help,Penguin,Penguin Books Product,NextGen Supply,USA,45.08,33.53,25.62,4.8,397,Active
+P000802,Electronics,Headphones,Dell,Inspiron 16,Universal Traders,Germany,1852.84,1353.66,26.94,4.9,464,Discontinued
+P000803,Beauty,Haircare,L'Oréal,L'Oréal Beauty Product,Global Supplies Ltd,Japan,48.23,29.71,38.4,3.9,351,Discontinued
+P000804,Accessories,Bag,Fossil,Fossil Accessories Product,Universal Traders,South Korea,93.22,61.46,34.07,3.5,167,Active
+P000805,Accessories,Bag,Casio,Casio Accessories Product,Prime Distribution,Germany,62.73,45.34,27.72,4.0,328,Discontinued
+P000806,Home,Lighting,Philips,Philips Home Product,NextGen Supply,Japan,768.45,537.86,30.01,4.5,396,Active
+P000807,Accessories,Wallet,Fossil,Fossil Accessories Product,Prime Distribution,Vietnam,175.77,83.64,52.42,4.2,108,Active
+P000808,Home,Kitchen,Prestige,Prestige Home Product,Global Supplies Ltd,USA,341.55,255.52,25.19,4.0,127,Active
+P000809,Electronics,Tablet,Sony,PlayStation 5,NextGen Supply,India,560.58,396.8,29.22,4.3,433,Active
+P000810,Books,Self Help,HarperCollins,HarperCollins Books Product,Universal Traders,India,14.28,7.39,48.25,3.9,194,Active
+P000811,Electronics,Laptop,HP,Pavilion Laptop,NextGen Supply,USA,1361.16,885.91,34.92,4.6,494,Discontinued
+P000812,Accessories,Watch,Fossil,Fossil Accessories Product,Universal Traders,Germany,197.72,145.17,26.58,4.7,41,Active
+P000813,Home,Furniture,Prestige,Prestige Home Product,Prime Distribution,Vietnam,138.27,74.34,46.24,4.2,279,Discontinued
+P000814,Fashion,Jackets,Adidas,Adidas Fashion Product,ABC Wholesale,USA,58.58,41.27,29.55,4.2,232,Active
+P000815,Beauty,Makeup,Nivea,Nivea Beauty Product,ABC Wholesale,Germany,17.84,9.45,47.03,4.6,232,Active
+P000816,Beauty,Haircare,Maybelline,Maybelline Beauty Product,Elite Imports,USA,22.11,15.27,30.94,4.1,229,Discontinued
+P000817,Books,Technology,Penguin,Penguin Books Product,Prime Distribution,USA,8.52,5.89,30.87,4.9,63,Active
+P000818,Books,Self Help,HarperCollins,HarperCollins Books Product,Elite Imports,China,28.45,13.12,53.88,4.9,97,Active
+P000819,Sports,Gym Equipment,Under Armour,Curry Flow,NextGen Supply,Germany,440.57,293.62,33.35,4.0,196,Active
+P000820,Sports,Football,Adidas,Adizero Boston,Elite Imports,South Korea,126.41,77.53,38.67,4.7,353,Discontinued
+P000821,Books,Technology,Oxford,Oxford Books Product,Prime Distribution,Vietnam,12.38,7.57,38.85,4.1,388,Active
+P000822,Sports,Gym Equipment,Adidas,Ultraboost 5,Universal Traders,Vietnam,275.03,186.23,32.29,3.7,34,Active
+P000823,Beauty,Haircare,Lakme,Lakme Beauty Product,Elite Imports,Germany,13.28,6.21,53.24,4.1,341,Active
+P000824,Fashion,Shoes,Nike,Nike Fashion Product,Elite Imports,Vietnam,180.28,81.41,54.84,4.0,140,Active
+P000825,Books,Technology,HarperCollins,HarperCollins Books Product,NextGen Supply,USA,50.38,31.33,37.81,3.7,213,Active
+P000826,Fashion,Clothing,Puma,Puma Fashion Product,ABC Wholesale,Japan,47.44,31.48,33.64,4.7,61,Active
+P000827,Electronics,Headphones,Dell,XPS 15 Laptop,Prime Distribution,Japan,333.47,217.77,34.7,4.1,306,Discontinued
+P000828,Sports,Football,Under Armour,Curry Flow,NextGen Supply,Japan,373.91,215.03,42.49,3.7,278,Active
+P000829,Accessories,Bag,Titan,Titan Accessories Product,Prime Distribution,South Korea,133.16,81.06,39.13,4.5,253,Discontinued
+P000830,Electronics,Television,Lenovo,ThinkPad X1 Carbon,ABC Wholesale,China,1563.76,895.39,42.74,3.7,312,Active
+P000831,Electronics,Smartphone,HP,Spectre x360,ABC Wholesale,Vietnam,2478.9,1341.03,45.9,4.2,425,Active
+P000832,Home,Kitchen,Prestige,Prestige Home Product,Global Supplies Ltd,Vietnam,712.91,366.92,48.53,4.7,270,Active
+P000833,Fashion,Jackets,Zara,Zara Fashion Product,Global Supplies Ltd,USA,32.51,19.32,40.57,4.0,251,Active
+P000834,Toys,Outdoor,Mattel,Mattel Toys Product,Universal Traders,India,116.67,70.17,39.86,4.2,250,Discontinued
+P000835,Home,Kitchen,Prestige,Prestige Home Product,Global Supplies Ltd,USA,505.44,322.0,36.29,4.1,480,Discontinued
+P000836,Books,Self Help,Oxford,Oxford Books Product,NextGen Supply,Japan,46.27,29.79,35.62,4.8,382,Active
+P000837,Sports,Gym Equipment,Nike,Mercurial Vapor,Global Supplies Ltd,India,478.93,293.37,38.74,4.6,311,Active
+P000838,Accessories,Watch,Titan,Titan Accessories Product,Global Supplies Ltd,South Korea,234.68,118.26,49.61,3.5,422,Active
+P000839,Beauty,Skincare,Nivea,Nivea Beauty Product,Universal Traders,Germany,29.03,18.19,37.34,4.2,498,Active
+P000840,Books,Self Help,HarperCollins,HarperCollins Books Product,Elite Imports,China,52.7,28.73,45.48,3.9,78,Active
+P000841,Home,Furniture,Philips,Philips Home Product,Prime Distribution,Vietnam,618.12,306.75,50.37,4.9,367,Active
+P000842,Electronics,Laptop,HP,Pavilion Laptop,Global Supplies Ltd,South Korea,287.48,163.0,43.3,4.0,231,Active
+P000843,Sports,Running Shoes,Under Armour,HOVR Phantom,Prime Distribution,India,383.5,240.0,37.42,4.2,405,Discontinued
+P000844,Fashion,Shoes,Puma,Puma Fashion Product,ABC Wholesale,Japan,174.87,82.13,53.03,3.5,344,Active
+P000845,Electronics,Television,Sony,Bravia OLED TV,NextGen Supply,China,728.84,449.27,38.36,4.7,175,Discontinued
+P000846,Accessories,Wallet,Fossil,Fossil Accessories Product,Universal Traders,India,197.89,97.5,50.73,4.3,106,Active
+P000847,Toys,Building Blocks,Hasbro,Hasbro Toys Product,Global Supplies Ltd,China,123.77,91.38,26.17,4.4,354,Active
+P000848,Electronics,Tablet,Apple,AirPods Pro,Universal Traders,Vietnam,2122.8,1197.36,43.6,4.0,343,Active
+P000849,Sports,Gym Equipment,Nike,Air Zoom Pegasus 41,Universal Traders,Germany,62.87,29.98,52.31,4.5,445,Active
+P000850,Sports,Gym Equipment,Under Armour,HOVR Phantom,Universal Traders,USA,179.6,117.57,34.54,4.0,153,Discontinued
+P000851,Sports,Football,Adidas,Adizero Boston,ABC Wholesale,India,246.11,155.01,37.02,3.5,374,Active
+P000852,Electronics,Smartphone,HP,Pavilion Laptop,Global Supplies Ltd,South Korea,557.81,344.02,38.33,4.5,270,Discontinued
+P000853,Fashion,Shoes,Nike,Nike Fashion Product,NextGen Supply,Japan,208.23,115.75,44.41,4.7,443,Active
+P000854,Toys,Outdoor,LEGO,LEGO Toys Product,Global Supplies Ltd,China,74.78,54.65,26.92,4.2,133,Active
+P000855,Sports,Running Shoes,Puma,Future Ultimate,Universal Traders,South Korea,172.49,114.76,33.47,3.9,272,Active
+P000856,Electronics,Television,Sony,PlayStation 5,Prime Distribution,China,610.8,425.32,30.37,4.1,465,Active
+P000857,Accessories,Wallet,Fossil,Fossil Accessories Product,Prime Distribution,South Korea,187.32,122.07,34.83,4.4,109,Active
+P000858,Home,Furniture,Prestige,Prestige Home Product,Prime Distribution,Vietnam,747.85,528.46,29.34,4.8,393,Active
+P000859,Beauty,Haircare,L'Oréal,L'Oréal Beauty Product,NextGen Supply,Germany,51.08,33.42,34.57,4.8,21,Discontinued
+P000860,Electronics,Headphones,Sony,PlayStation 5,ABC Wholesale,China,1748.41,1031.52,41.0,4.0,408,Active
+P000861,Beauty,Makeup,L'Oréal,L'Oréal Beauty Product,Elite Imports,Germany,38.66,17.46,54.84,3.8,61,Active
+P000862,Beauty,Skincare,Nivea,Nivea Beauty Product,Prime Distribution,India,17.34,9.42,45.67,4.4,69,Active
+P000863,Accessories,Watch,Casio,Casio Accessories Product,Universal Traders,USA,160.31,88.22,44.97,3.9,75,Discontinued
+P000864,Beauty,Skincare,Lakme,Lakme Beauty Product,ABC Wholesale,Germany,64.56,47.33,26.69,4.7,337,Discontinued
+P000865,Fashion,Shoes,Levi's,Levi's Fashion Product,Global Supplies Ltd,China,276.68,155.83,43.68,4.8,375,Active
+P000866,Home,Kitchen,IKEA,IKEA Home Product,Global Supplies Ltd,Vietnam,494.43,286.55,42.04,3.7,48,Active
+P000867,Sports,Running Shoes,Under Armour,Curry Flow,Universal Traders,USA,223.22,158.35,29.06,4.7,339,Active
+P000868,Accessories,Bag,Casio,Casio Accessories Product,Elite Imports,Germany,158.62,87.54,44.81,4.9,420,Active
+P000869,Accessories,Bag,Titan,Titan Accessories Product,Universal Traders,India,35.92,16.3,54.62,4.6,323,Active
+P000870,Home,Lighting,Prestige,Prestige Home Product,ABC Wholesale,Vietnam,345.49,230.58,33.26,4.2,144,Active
+P000871,Electronics,Tablet,Apple,MacBook Air M3,Universal Traders,Japan,1355.85,875.22,35.45,4.0,318,Active
+P000872,Home,Kitchen,Philips,Philips Home Product,Universal Traders,Vietnam,243.49,180.45,25.89,4.3,356,Active
+P000873,Electronics,Television,Samsung,Galaxy Buds 3,Global Supplies Ltd,Japan,957.97,711.73,25.7,4.5,123,Active
+P000874,Books,Business,Penguin,Penguin Books Product,Elite Imports,South Korea,43.98,25.96,40.97,4.5,456,Active
+P000875,Sports,Running Shoes,Under Armour,Curry Flow,Global Supplies Ltd,Japan,441.77,319.47,27.68,4.2,491,Active
+P000876,Beauty,Makeup,Maybelline,Maybelline Beauty Product,Universal Traders,India,22.93,15.37,32.97,4.9,189,Discontinued
+P000877,Beauty,Skincare,Nivea,Nivea Beauty Product,Global Supplies Ltd,Vietnam,5.74,3.2,44.25,4.3,92,Active
+P000878,Accessories,Wallet,Fossil,Fossil Accessories Product,Universal Traders,USA,96.38,71.57,25.74,3.8,165,Active
+P000879,Beauty,Haircare,Lakme,Lakme Beauty Product,Prime Distribution,Vietnam,68.57,35.92,47.62,3.8,110,Active
+P000880,Fashion,Clothing,Nike,Nike Fashion Product,Elite Imports,South Korea,240.48,116.22,51.67,4.9,176,Discontinued
+P000881,Beauty,Makeup,Lakme,Lakme Beauty Product,NextGen Supply,India,75.59,56.17,25.69,5.0,471,Discontinued
+P000882,Fashion,Clothing,Nike,Nike Fashion Product,Prime Distribution,USA,73.1,44.57,39.03,4.5,182,Discontinued
+P000883,Beauty,Haircare,L'Oréal,L'Oréal Beauty Product,Universal Traders,India,69.08,37.18,46.18,3.7,146,Active
+P000884,Sports,Gym Equipment,Adidas,Adizero Boston,Elite Imports,India,371.83,254.85,31.46,4.7,334,Active
+P000885,Home,Kitchen,Prestige,Prestige Home Product,NextGen Supply,USA,414.69,248.64,40.04,4.2,184,Active
+P000886,Accessories,Bag,Titan,Titan Accessories Product,Elite Imports,Vietnam,149.48,95.88,35.86,4.7,352,Active
+P000887,Beauty,Skincare,Maybelline,Maybelline Beauty Product,Elite Imports,USA,22.58,11.64,48.45,4.1,213,Active
+P000888,Books,Business,HarperCollins,HarperCollins Books Product,Global Supplies Ltd,India,47.08,25.35,46.16,4.3,137,Active
+P000889,Accessories,Wallet,Titan,Titan Accessories Product,ABC Wholesale,Japan,118.28,68.57,42.03,4.1,274,Active
+P000890,Sports,Running Shoes,Under Armour,HOVR Phantom,Elite Imports,India,154.84,73.2,52.73,4.9,170,Active
+P000891,Sports,Running Shoes,Adidas,Ultraboost 5,Global Supplies Ltd,Vietnam,47.99,24.48,48.99,3.8,188,Active
+P000892,Sports,Gym Equipment,Puma,Future Ultimate,Universal Traders,India,499.25,337.35,32.43,4.6,487,Active
+P000893,Electronics,Tablet,Sony,PlayStation 5,Elite Imports,Japan,2081.37,1409.8,32.27,3.5,354,Active
+P000894,Toys,Educational,LEGO,LEGO Toys Product,NextGen Supply,South Korea,39.38,20.48,47.99,4.4,302,Discontinued
+P000895,Accessories,Watch,Casio,Casio Accessories Product,ABC Wholesale,USA,55.08,37.51,31.9,4.5,127,Discontinued
+P000896,Accessories,Watch,Titan,Titan Accessories Product,ABC Wholesale,India,148.6,72.59,51.15,4.9,24,Discontinued
+P000897,Books,Self Help,HarperCollins,HarperCollins Books Product,Elite Imports,Japan,43.66,24.93,42.9,4.7,295,Active
+P000898,Books,Self Help,Oxford,Oxford Books Product,Universal Traders,USA,9.67,4.76,50.78,5.0,189,Discontinued
+P000899,Toys,Building Blocks,LEGO,LEGO Toys Product,Global Supplies Ltd,Germany,64.1,37.97,40.76,4.0,251,Active
+P000900,Fashion,Shoes,Adidas,Adidas Fashion Product,NextGen Supply,Germany,69.74,48.67,30.21,4.4,33,Active
+P000901,Beauty,Makeup,L'Oréal,L'Oréal Beauty Product,ABC Wholesale,India,22.48,14.56,35.23,3.6,49,Active
+P000902,Electronics,Headphones,Samsung,Galaxy Tab S10,Elite Imports,India,2475.55,1209.9,51.13,4.1,400,Active
+P000903,Toys,Educational,LEGO,LEGO Toys Product,Prime Distribution,Vietnam,70.51,46.74,33.71,4.2,329,Active
+P000904,Beauty,Makeup,Nivea,Nivea Beauty Product,Prime Distribution,China,79.33,46.31,41.62,4.7,329,Active
+P000905,Books,Technology,Oxford,Oxford Books Product,Elite Imports,Japan,37.96,25.48,32.88,3.9,471,Discontinued
+P000906,Books,Business,Oxford,Oxford Books Product,ABC Wholesale,Japan,39.88,27.64,30.69,3.8,147,Active
+P000907,Toys,Building Blocks,Mattel,Mattel Toys Product,NextGen Supply,India,107.79,51.59,52.14,4.5,42,Active
+P000908,Home,Lighting,Philips,Philips Home Product,Universal Traders,Vietnam,538.33,253.03,53.0,4.6,481,Active
+P000909,Accessories,Wallet,Casio,Casio Accessories Product,Global Supplies Ltd,Vietnam,28.37,13.66,51.85,4.6,186,Discontinued
+P000910,Accessories,Bag,Fossil,Fossil Accessories Product,Prime Distribution,Germany,20.71,9.49,54.18,4.5,365,Discontinued
+P000911,Toys,Outdoor,Mattel,Mattel Toys Product,Elite Imports,USA,37.22,17.17,53.87,3.9,383,Active
+P000912,Books,Business,Oxford,Oxford Books Product,Elite Imports,Japan,31.99,15.19,52.52,4.5,385,Discontinued
+P000913,Home,Kitchen,Philips,Philips Home Product,Prime Distribution,India,673.22,425.54,36.79,3.8,83,Discontinued
+P000914,Home,Lighting,IKEA,IKEA Home Product,Global Supplies Ltd,South Korea,229.5,133.61,41.78,3.8,385,Active
+P000915,Beauty,Haircare,Nivea,Nivea Beauty Product,Global Supplies Ltd,USA,52.61,31.93,39.31,4.5,357,Active
+P000916,Toys,Building Blocks,Hasbro,Hasbro Toys Product,Elite Imports,China,93.75,43.56,53.54,4.1,123,Active
+P000917,Books,Self Help,Penguin,Penguin Books Product,Global Supplies Ltd,China,29.93,22.35,25.33,4.0,118,Active
+P000918,Beauty,Haircare,L'Oréal,L'Oréal Beauty Product,Prime Distribution,South Korea,17.53,10.07,42.56,3.7,187,Active
+P000919,Beauty,Haircare,Maybelline,Maybelline Beauty Product,Elite Imports,Japan,14.06,7.23,48.58,4.0,108,Active
+P000920,Toys,Building Blocks,Hasbro,Hasbro Toys Product,Global Supplies Ltd,Japan,39.79,20.53,48.4,4.5,162,Active
+P000921,Electronics,Headphones,Apple,MacBook Air M3,ABC Wholesale,USA,1557.34,1160.11,25.51,3.7,294,Active
+P000922,Sports,Football,Nike,Mercurial Vapor,NextGen Supply,South Korea,212.63,154.66,27.26,4.7,88,Active
+P000923,Home,Lighting,Prestige,Prestige Home Product,ABC Wholesale,USA,538.1,253.04,52.98,3.5,486,Discontinued
+P000924,Toys,Outdoor,Hasbro,Hasbro Toys Product,NextGen Supply,India,80.48,53.23,33.86,3.5,30,Active
+P000925,Sports,Football,Adidas,Adizero Boston,Prime Distribution,Germany,67.31,33.07,50.87,4.2,123,Active
+P000926,Toys,Outdoor,LEGO,LEGO Toys Product,Global Supplies Ltd,India,139.28,87.67,37.05,4.9,398,Active
+P000927,Home,Kitchen,Philips,Philips Home Product,NextGen Supply,USA,611.99,371.03,39.37,5.0,351,Active
+P000928,Electronics,Tablet,Samsung,Galaxy Buds 3,ABC Wholesale,India,633.67,295.43,53.38,4.9,147,Active
+P000929,Toys,Building Blocks,Hasbro,Hasbro Toys Product,Prime Distribution,Japan,98.17,46.08,53.06,4.2,118,Active
+P000930,Home,Furniture,IKEA,IKEA Home Product,Global Supplies Ltd,India,480.22,335.85,30.06,4.9,140,Active
+P000931,Toys,Building Blocks,Hasbro,Hasbro Toys Product,ABC Wholesale,India,111.03,58.12,47.65,3.8,147,Active
+P000932,Sports,Football,Under Armour,HOVR Phantom,Elite Imports,China,476.98,266.1,44.21,4.1,261,Discontinued
+P000933,Toys,Outdoor,Hasbro,Hasbro Toys Product,NextGen Supply,Japan,116.45,81.04,30.41,4.7,30,Discontinued
+P000934,Toys,Building Blocks,LEGO,LEGO Toys Product,Universal Traders,Germany,31.39,20.97,33.2,3.9,257,Active
+P000935,Accessories,Bag,Casio,Casio Accessories Product,Universal Traders,Germany,125.4,68.97,45.0,4.6,120,Active
+P000936,Beauty,Skincare,L'Oréal,L'Oréal Beauty Product,Universal Traders,South Korea,59.4,35.49,40.25,4.9,222,Active
+P000937,Toys,Building Blocks,Mattel,Mattel Toys Product,NextGen Supply,Germany,19.97,14.29,28.44,5.0,83,Discontinued
+P000938,Home,Kitchen,IKEA,IKEA Home Product,ABC Wholesale,USA,731.77,487.85,33.33,4.3,270,Active
+P000939,Electronics,Headphones,Lenovo,Yoga 9i,NextGen Supply,India,719.53,331.24,53.96,4.7,343,Active
+P000940,Home,Lighting,Philips,Philips Home Product,Elite Imports,South Korea,130.68,68.51,47.57,4.4,359,Active
+P000941,Electronics,Headphones,Apple,iPhone 15 Pro,Elite Imports,South Korea,1527.48,1100.24,27.97,4.3,116,Discontinued
+P000942,Home,Kitchen,Philips,Philips Home Product,NextGen Supply,Vietnam,408.01,248.87,39.0,4.8,320,Active
+P000943,Toys,Educational,Hasbro,Hasbro Toys Product,Global Supplies Ltd,South Korea,90.17,62.15,31.07,4.7,157,Active
+P000944,Toys,Building Blocks,Hasbro,Hasbro Toys Product,Global Supplies Ltd,India,124.29,55.99,54.95,3.6,376,Discontinued
+P000945,Toys,Building Blocks,Hasbro,Hasbro Toys Product,NextGen Supply,Japan,33.89,19.06,43.76,4.6,121,Discontinued
+P000946,Home,Furniture,Prestige,Prestige Home Product,Elite Imports,Germany,654.28,330.86,49.43,3.6,113,Active
+P000947,Sports,Gym Equipment,Under Armour,Curry Flow,Universal Traders,China,438.13,218.99,50.02,3.9,213,Active
+P000948,Sports,Running Shoes,Nike,Metcon 9,Universal Traders,India,254.61,165.97,34.81,3.7,51,Active
+P000949,Electronics,Smartphone,Lenovo,Legion Pro 5,Global Supplies Ltd,India,1377.49,622.87,54.78,4.4,409,Active
+P000950,Accessories,Bag,Casio,Casio Accessories Product,Universal Traders,Japan,90.77,59.41,34.55,4.0,181,Active
+P000951,Books,Technology,Oxford,Oxford Books Product,Elite Imports,Germany,10.98,6.11,44.35,4.0,71,Active
+P000952,Accessories,Bag,Titan,Titan Accessories Product,NextGen Supply,USA,223.11,109.69,50.84,4.4,464,Active
+P000953,Beauty,Makeup,Lakme,Lakme Beauty Product,Universal Traders,South Korea,54.42,32.25,40.74,4.1,116,Active
+P000954,Books,Business,Penguin,Penguin Books Product,ABC Wholesale,USA,10.38,7.19,30.73,4.0,247,Active
+P000955,Accessories,Wallet,Casio,Casio Accessories Product,Universal Traders,USA,29.53,17.08,42.16,4.9,496,Discontinued
+P000956,Fashion,Jackets,Levi's,Levi's Fashion Product,Universal Traders,India,219.34,155.94,28.9,4.8,421,Active
+P000957,Home,Furniture,Philips,Philips Home Product,ABC Wholesale,USA,543.35,333.96,38.54,4.8,106,Discontinued
+P000958,Fashion,Clothing,Levi's,Levi's Fashion Product,Prime Distribution,India,67.72,49.66,26.67,4.5,74,Discontinued
+P000959,Electronics,Headphones,Samsung,Galaxy Tab S10,ABC Wholesale,India,1840.06,1195.63,35.02,4.9,363,Active
+P000960,Home,Lighting,Prestige,Prestige Home Product,NextGen Supply,Japan,86.0,56.55,34.24,4.8,497,Active
+P000961,Books,Business,HarperCollins,HarperCollins Books Product,NextGen Supply,South Korea,45.7,29.53,35.38,4.7,458,Discontinued
+P000962,Beauty,Makeup,Maybelline,Maybelline Beauty Product,Global Supplies Ltd,Vietnam,11.58,5.52,52.33,4.6,499,Active
+P000963,Fashion,Jackets,Zara,Zara Fashion Product,Prime Distribution,USA,107.74,60.77,43.6,4.6,179,Active
+P000964,Beauty,Makeup,Nivea,Nivea Beauty Product,ABC Wholesale,USA,32.38,21.17,34.62,4.7,286,Active
+P000965,Fashion,Shoes,Levi's,Levi's Fashion Product,Universal Traders,USA,148.97,73.5,50.66,4.9,448,Active
+P000966,Accessories,Bag,Titan,Titan Accessories Product,Prime Distribution,Germany,78.01,52.59,32.59,4.8,443,Active
+P000967,Books,Business,HarperCollins,HarperCollins Books Product,NextGen Supply,China,22.22,15.65,29.57,4.4,343,Active
+P000968,Accessories,Wallet,Casio,Casio Accessories Product,Elite Imports,China,245.47,134.99,45.01,4.7,127,Active
+P000969,Electronics,Headphones,Samsung,Galaxy Tab S10,ABC Wholesale,USA,1699.24,1197.21,29.54,5.0,300,Discontinued
+P000970,Books,Business,HarperCollins,HarperCollins Books Product,Elite Imports,Vietnam,47.4,26.89,43.27,4.3,164,Active
+P000971,Beauty,Skincare,Nivea,Nivea Beauty Product,Prime Distribution,Vietnam,61.42,38.33,37.59,4.7,455,Active
+P000972,Accessories,Watch,Titan,Titan Accessories Product,Universal Traders,India,116.05,69.02,40.53,4.8,127,Active
+P000973,Beauty,Makeup,L'Oréal,L'Oréal Beauty Product,NextGen Supply,USA,48.18,31.49,34.64,5.0,95,Discontinued
+P000974,Toys,Educational,Hasbro,Hasbro Toys Product,Global Supplies Ltd,China,59.78,35.4,40.78,4.9,80,Active
+P000975,Toys,Outdoor,LEGO,LEGO Toys Product,NextGen Supply,Japan,44.3,21.51,51.44,4.1,174,Active
+P000976,Toys,Outdoor,Hasbro,Hasbro Toys Product,NextGen Supply,China,118.88,84.34,29.05,4.5,160,Discontinued
+P000977,Books,Self Help,Penguin,Penguin Books Product,Global Supplies Ltd,China,14.35,9.22,35.75,4.9,135,Active
+P000978,Accessories,Wallet,Casio,Casio Accessories Product,NextGen Supply,China,200.64,101.19,49.57,4.2,350,Discontinued
+P000979,Sports,Football,Adidas,Ultraboost 5,Global Supplies Ltd,South Korea,457.17,314.79,31.14,3.8,436,Active
+P000980,Toys,Outdoor,Hasbro,Hasbro Toys Product,Universal Traders,Japan,18.95,13.29,29.87,4.3,439,Active
+P000981,Beauty,Skincare,L'Oréal,L'Oréal Beauty Product,Universal Traders,South Korea,18.5,11.4,38.38,4.7,82,Active
+P000982,Home,Furniture,Prestige,Prestige Home Product,NextGen Supply,India,83.94,44.24,47.3,4.6,63,Active
+P000983,Sports,Football,Puma,Future Ultimate,NextGen Supply,China,146.72,68.06,53.61,4.9,483,Active
+P000984,Accessories,Wallet,Fossil,Fossil Accessories Product,Elite Imports,South Korea,85.1,61.55,27.67,5.0,330,Active
+P000985,Fashion,Clothing,Nike,Nike Fashion Product,Global Supplies Ltd,India,59.67,42.18,29.31,3.8,88,Active
+P000986,Books,Self Help,HarperCollins,HarperCollins Books Product,NextGen Supply,Germany,29.94,18.41,38.51,3.9,352,Active
+P000987,Toys,Educational,Mattel,Mattel Toys Product,ABC Wholesale,South Korea,69.55,45.79,34.16,4.3,56,Active
+P000988,Beauty,Haircare,Lakme,Lakme Beauty Product,NextGen Supply,South Korea,66.54,42.02,36.85,4.1,98,Active
+P000989,Toys,Educational,Mattel,Mattel Toys Product,Universal Traders,India,20.85,10.16,51.27,3.7,300,Discontinued
+P000990,Fashion,Shoes,Puma,Puma Fashion Product,ABC Wholesale,Vietnam,237.86,117.48,50.61,4.7,160,Active
+P000991,Fashion,Clothing,Levi's,Levi's Fashion Product,Elite Imports,China,239.17,116.49,51.29,4.3,468,Active
+P000992,Accessories,Wallet,Fossil,Fossil Accessories Product,ABC Wholesale,South Korea,147.32,78.76,46.54,3.9,70,Active
+P000993,Home,Kitchen,Philips,Philips Home Product,Prime Distribution,Vietnam,647.78,423.22,34.67,4.7,302,Discontinued
+P000994,Accessories,Watch,Titan,Titan Accessories Product,ABC Wholesale,China,174.8,116.06,33.6,4.5,93,Discontinued
+P000995,Sports,Gym Equipment,Nike,Mercurial Vapor,ABC Wholesale,South Korea,395.44,258.41,34.65,4.1,254,Active
+P000996,Accessories,Bag,Casio,Casio Accessories Product,Universal Traders,Vietnam,76.2,44.07,42.17,4.9,471,Active
+P000997,Sports,Football,Nike,Metcon 9,ABC Wholesale,USA,72.37,34.29,52.62,4.6,67,Active
+P000998,Electronics,Television,Apple,iPad Air,Elite Imports,USA,2204.73,1628.52,26.14,4.1,280,Active
+P000999,Accessories,Wallet,Casio,Casio Accessories Product,NextGen Supply,South Korea,223.14,147.13,34.06,4.1,335,Active
+P001000,Electronics,Television,Lenovo,Yoga 9i,NextGen Supply,Vietnam,723.93,486.26,32.83,4.9,441,Active
