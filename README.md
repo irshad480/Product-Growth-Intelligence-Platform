@@ -375,19 +375,60 @@ Business Recommendations
 
 ---
 
+
 # 📁 Project Structure & Usage
 
-
+```text
 Product-Growth-Intelligence-Platform/
 │
 ├── README.md
 ├── Images/
+│   ├── banner.png
+│   ├── executive-overview.png
+│   ├── customer-analytics.png
+│   ├── product-analytics.png
+│   ├── marketing-analytics.png
+│   ├── customer-retention.png
+│   ├── ai-insights.png
+│   └── data-model.png
+│
 ├── Power BI/
 │   └── Product Growth Intelligence Platform.pbix
+│
 ├── ai/
+│   ├── data_loader.py
+│   ├── database.py
+│   ├── insight_generator.py
+│   ├── main.py
+│   ├── report_generator.py
+│   └── Executive_Report.md
+│
 ├── data_generator/
+│   ├── generators/
+│   ├── output/
+│   ├── tests/
+│   ├── utils/
+│   ├── config.py
+│   ├── constants.py
+│   ├── main.py
+│   └── requirements.txt
+│
 └── sql/
-
+    ├── 01_business_kpis.sql
+    ├── 02_customer_analytics.sql
+    ├── 03_product_analytics.sql
+    ├── 04_marketing_analytics.sql
+    ├── 05_conversion_funnel.sql
+    ├── 06_retention_analysis.sql
+    ├── 07_executive_dashboard.sql
+    ├── ai_views.sql
+    ├── functions.sql
+    ├── indexes.sql
+    ├── procedures.sql
+    ├── relationships.sql
+    ├── schema.sql
+    └── views.sql
+```
 
 ### How to Use
 
