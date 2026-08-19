@@ -357,6 +357,7 @@ PGIP therefore supports both performance monitoring and the next stage of busine
 
 ### End-to-End Workflow
 
+```text
 Data
  ↓
 SQL / Power Query
@@ -373,7 +374,7 @@ Executive Intelligence
  ↓
 Business Recommendations
 
----
+```
 
 
 # 📁 Project Structure & Usage
